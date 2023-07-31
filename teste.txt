@@ -1,0 +1,1947 @@
+
+
+GET: https://www.youtube.com/watch?v=IjIuDIKqzgc
+HEADERS:
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Alt-Used: www.youtube.com
+Connection: keep-alive
+Cookie: SID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3_xEnLNex_J-gxbHgopyKpA.; __Secure-1PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-3PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-1PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm30jxyYmzcWQvDzStcqtH9YQ.; __Secure-3PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3-dArU1I7uGuUZrc9IiVL7Q.; HSID=A1cqb19h4TQNHaDqB; SSID=AYlT0VacCHYoYMZUp; APISID=ivRjYjK-0e2l1wZY/A8O1u5QLwduvhZSLW; SAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-1PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-3PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; PREF=f6=80&tz=America.Sao_Paulo; LOGIN_INFO=AFmmF2swRgIhAKBGR5Iw4D-iE2gJzuq9xM9ac4dkIT-_NqD6joIVidrhAiEAoJ3ScVBpUtHRM1VTThxUJEjcd3QrlusiVsOKi9AGZcA:QUQ3MjNmekdDRHkzUmJVS2JNUXoxaElnMzhqTUlHNC1SZm1MN2Q0c3FKVHZqNVozT3FQQkdIeDBPa3RpMjF1QTNvUnM0eEVDb292MVlPZGtwSVZ6emtJNGh3cFpNQVJsZnhZOVA2SS1QanRzeG1qWWVGTHZ2bDBJMXdiQkxxZFVHY01aQTUwUnRsZmVXRVZYN3NHMDV1RGUyTjg4a2VieG53; VISITOR_INFO1_LIVE=ptAfg5E8s6I; SIDCC=APoG2W-wGvbifE8qN-Jiz8KsRsMVQF4qDMhA7DB6-6ZnQrw40g8OUGIVwWr8TjzwQwtZZQ2gq-4; __Secure-1PSIDCC=APoG2W_WlcBLCikM1_AnsDXgzBm-Hu3Jn4hDXHXSFALzMMPPMgyjkY-kN042INbS_BhTlaB9SQ; __Secure-3PSIDCC=APoG2W8rhCY_pNG1GaRQqe22bYRyMSCQ7-M8s-9oIw9B91QV1iisN5njzJmdeE5uYpbh41ywvRQ; _ga=GA1.1.1207446393.1690688431; _gid=GA1.2.755430197.1690688431; _ga_M0180HEFCY=GS1.1.1690688431.1.0.1690688433.0.0.0; YSC=HY5Sef0oexA
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: none
+Sec-Fetch-User: ?1
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://i.ytimg.com/generate_204
+HEADERS:
+Host: i.ytimg.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Alt-Used: i.ytimg.com
+Connection: keep-alive
+Referer: https://www.youtube.com/
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: cross-site
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://www.youtube.com/s/player/0e6aaa83/player_ias.vflset/pt_BR/base.js
+HEADERS:
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Alt-Used: www.youtube.com
+Connection: keep-alive
+Referer: https://www.youtube.com/watch?v=IjIuDIKqzgc
+Cookie: SID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3_xEnLNex_J-gxbHgopyKpA.; __Secure-1PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-3PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-1PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm30jxyYmzcWQvDzStcqtH9YQ.; __Secure-3PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3-dArU1I7uGuUZrc9IiVL7Q.; HSID=A1cqb19h4TQNHaDqB; SSID=AYlT0VacCHYoYMZUp; APISID=ivRjYjK-0e2l1wZY/A8O1u5QLwduvhZSLW; SAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-1PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-3PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; PREF=f6=80&tz=America.Sao_Paulo; LOGIN_INFO=AFmmF2swRgIhAKBGR5Iw4D-iE2gJzuq9xM9ac4dkIT-_NqD6joIVidrhAiEAoJ3ScVBpUtHRM1VTThxUJEjcd3QrlusiVsOKi9AGZcA:QUQ3MjNmekdDRHkzUmJVS2JNUXoxaElnMzhqTUlHNC1SZm1MN2Q0c3FKVHZqNVozT3FQQkdIeDBPa3RpMjF1QTNvUnM0eEVDb292MVlPZGtwSVZ6emtJNGh3cFpNQVJsZnhZOVA2SS1QanRzeG1qWWVGTHZ2bDBJMXdiQkxxZFVHY01aQTUwUnRsZmVXRVZYN3NHMDV1RGUyTjg4a2VieG53; VISITOR_INFO1_LIVE=ptAfg5E8s6I; SIDCC=APoG2W_C_BmPlZUgezLm5gG2dAPNTt-k7xQZbXxWSQ-VAXc0naTCRv8bhIHNEvBe5lGzEFjiOLE; __Secure-1PSIDCC=APoG2W_nzkB0sibbfGKKeOeWhl6cvx0s-9nOO0eaJmAdgRSi-Cp6Q3lN_ErmiYtIN8Zum5WZnw; __Secure-3PSIDCC=APoG2W8ARstF7jRKDem_a6uiynMLQlrvwKcIF4enuPhoLUNEFRirfjJ7WUtPoSsFzgR1SIeq3ME; _ga=GA1.1.1207446393.1690688431; _gid=GA1.2.755430197.1690688431; _ga_M0180HEFCY=GS1.1.1690688431.1.0.1690688433.0.0.0; YSC=HY5Sef0oexA
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://i.ytimg.com/vi/IjIuDIKqzgc/hqdefault.jpg
+HEADERS:
+Host: i.ytimg.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Alt-Used: i.ytimg.com
+Connection: keep-alive
+Referer: https://www.youtube.com/
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: cross-site
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://www.youtube.com/s/desktop/83a619e0/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js
+HEADERS:
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Alt-Used: www.youtube.com
+Connection: keep-alive
+Referer: https://www.youtube.com/watch?v=IjIuDIKqzgc
+Cookie: SID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3_xEnLNex_J-gxbHgopyKpA.; __Secure-1PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-3PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-1PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm30jxyYmzcWQvDzStcqtH9YQ.; __Secure-3PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3-dArU1I7uGuUZrc9IiVL7Q.; HSID=A1cqb19h4TQNHaDqB; SSID=AYlT0VacCHYoYMZUp; APISID=ivRjYjK-0e2l1wZY/A8O1u5QLwduvhZSLW; SAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-1PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-3PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; PREF=f6=80&tz=America.Sao_Paulo; LOGIN_INFO=AFmmF2swRgIhAKBGR5Iw4D-iE2gJzuq9xM9ac4dkIT-_NqD6joIVidrhAiEAoJ3ScVBpUtHRM1VTThxUJEjcd3QrlusiVsOKi9AGZcA:QUQ3MjNmekdDRHkzUmJVS2JNUXoxaElnMzhqTUlHNC1SZm1MN2Q0c3FKVHZqNVozT3FQQkdIeDBPa3RpMjF1QTNvUnM0eEVDb292MVlPZGtwSVZ6emtJNGh3cFpNQVJsZnhZOVA2SS1QanRzeG1qWWVGTHZ2bDBJMXdiQkxxZFVHY01aQTUwUnRsZmVXRVZYN3NHMDV1RGUyTjg4a2VieG53; VISITOR_INFO1_LIVE=ptAfg5E8s6I; SIDCC=APoG2W_C_BmPlZUgezLm5gG2dAPNTt-k7xQZbXxWSQ-VAXc0naTCRv8bhIHNEvBe5lGzEFjiOLE; __Secure-1PSIDCC=APoG2W_nzkB0sibbfGKKeOeWhl6cvx0s-9nOO0eaJmAdgRSi-Cp6Q3lN_ErmiYtIN8Zum5WZnw; __Secure-3PSIDCC=APoG2W8ARstF7jRKDem_a6uiynMLQlrvwKcIF4enuPhoLUNEFRirfjJ7WUtPoSsFzgR1SIeq3ME; _ga=GA1.1.1207446393.1690688431; _gid=GA1.2.755430197.1690688431; _ga_M0180HEFCY=GS1.1.1690688431.1.0.1690688433.0.0.0; YSC=HY5Sef0oexA
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://www.youtube.com/s/desktop/83a619e0/jsbin/web-animations-next-lite.min.vflset/web-animations-next-lite.min.js
+HEADERS:
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Alt-Used: www.youtube.com
+Connection: keep-alive
+Referer: https://www.youtube.com/watch?v=IjIuDIKqzgc
+Cookie: SID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3_xEnLNex_J-gxbHgopyKpA.; __Secure-1PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-3PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-1PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm30jxyYmzcWQvDzStcqtH9YQ.; __Secure-3PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3-dArU1I7uGuUZrc9IiVL7Q.; HSID=A1cqb19h4TQNHaDqB; SSID=AYlT0VacCHYoYMZUp; APISID=ivRjYjK-0e2l1wZY/A8O1u5QLwduvhZSLW; SAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-1PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-3PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; PREF=f6=80&tz=America.Sao_Paulo; LOGIN_INFO=AFmmF2swRgIhAKBGR5Iw4D-iE2gJzuq9xM9ac4dkIT-_NqD6joIVidrhAiEAoJ3ScVBpUtHRM1VTThxUJEjcd3QrlusiVsOKi9AGZcA:QUQ3MjNmekdDRHkzUmJVS2JNUXoxaElnMzhqTUlHNC1SZm1MN2Q0c3FKVHZqNVozT3FQQkdIeDBPa3RpMjF1QTNvUnM0eEVDb292MVlPZGtwSVZ6emtJNGh3cFpNQVJsZnhZOVA2SS1QanRzeG1qWWVGTHZ2bDBJMXdiQkxxZFVHY01aQTUwUnRsZmVXRVZYN3NHMDV1RGUyTjg4a2VieG53; VISITOR_INFO1_LIVE=ptAfg5E8s6I; SIDCC=APoG2W_C_BmPlZUgezLm5gG2dAPNTt-k7xQZbXxWSQ-VAXc0naTCRv8bhIHNEvBe5lGzEFjiOLE; __Secure-1PSIDCC=APoG2W_nzkB0sibbfGKKeOeWhl6cvx0s-9nOO0eaJmAdgRSi-Cp6Q3lN_ErmiYtIN8Zum5WZnw; __Secure-3PSIDCC=APoG2W8ARstF7jRKDem_a6uiynMLQlrvwKcIF4enuPhoLUNEFRirfjJ7WUtPoSsFzgR1SIeq3ME; _ga=GA1.1.1207446393.1690688431; _gid=GA1.2.755430197.1690688431; _ga_M0180HEFCY=GS1.1.1690688431.1.0.1690688433.0.0.0; YSC=HY5Sef0oexA
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://www.youtube.com/s/desktop/83a619e0/jsbin/custom-elements-es5-adapter.vflset/custom-elements-es5-adapter.js
+HEADERS:
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Alt-Used: www.youtube.com
+Connection: keep-alive
+Referer: https://www.youtube.com/watch?v=IjIuDIKqzgc
+Cookie: SID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3_xEnLNex_J-gxbHgopyKpA.; __Secure-1PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-3PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-1PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm30jxyYmzcWQvDzStcqtH9YQ.; __Secure-3PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3-dArU1I7uGuUZrc9IiVL7Q.; HSID=A1cqb19h4TQNHaDqB; SSID=AYlT0VacCHYoYMZUp; APISID=ivRjYjK-0e2l1wZY/A8O1u5QLwduvhZSLW; SAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-1PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-3PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; PREF=f6=80&tz=America.Sao_Paulo; LOGIN_INFO=AFmmF2swRgIhAKBGR5Iw4D-iE2gJzuq9xM9ac4dkIT-_NqD6joIVidrhAiEAoJ3ScVBpUtHRM1VTThxUJEjcd3QrlusiVsOKi9AGZcA:QUQ3MjNmekdDRHkzUmJVS2JNUXoxaElnMzhqTUlHNC1SZm1MN2Q0c3FKVHZqNVozT3FQQkdIeDBPa3RpMjF1QTNvUnM0eEVDb292MVlPZGtwSVZ6emtJNGh3cFpNQVJsZnhZOVA2SS1QanRzeG1qWWVGTHZ2bDBJMXdiQkxxZFVHY01aQTUwUnRsZmVXRVZYN3NHMDV1RGUyTjg4a2VieG53; VISITOR_INFO1_LIVE=ptAfg5E8s6I; SIDCC=APoG2W_C_BmPlZUgezLm5gG2dAPNTt-k7xQZbXxWSQ-VAXc0naTCRv8bhIHNEvBe5lGzEFjiOLE; __Secure-1PSIDCC=APoG2W_nzkB0sibbfGKKeOeWhl6cvx0s-9nOO0eaJmAdgRSi-Cp6Q3lN_ErmiYtIN8Zum5WZnw; __Secure-3PSIDCC=APoG2W8ARstF7jRKDem_a6uiynMLQlrvwKcIF4enuPhoLUNEFRirfjJ7WUtPoSsFzgR1SIeq3ME; _ga=GA1.1.1207446393.1690688431; _gid=GA1.2.755430197.1690688431; _ga_M0180HEFCY=GS1.1.1690688431.1.0.1690688433.0.0.0; YSC=HY5Sef0oexA
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://www.youtube.com/s/desktop/83a619e0/jsbin/webcomponents-sd.vflset/webcomponents-sd.js
+HEADERS:
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Alt-Used: www.youtube.com
+Connection: keep-alive
+Referer: https://www.youtube.com/watch?v=IjIuDIKqzgc
+Cookie: SID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3_xEnLNex_J-gxbHgopyKpA.; __Secure-1PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-3PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-1PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm30jxyYmzcWQvDzStcqtH9YQ.; __Secure-3PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3-dArU1I7uGuUZrc9IiVL7Q.; HSID=A1cqb19h4TQNHaDqB; SSID=AYlT0VacCHYoYMZUp; APISID=ivRjYjK-0e2l1wZY/A8O1u5QLwduvhZSLW; SAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-1PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-3PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; PREF=f6=80&tz=America.Sao_Paulo; LOGIN_INFO=AFmmF2swRgIhAKBGR5Iw4D-iE2gJzuq9xM9ac4dkIT-_NqD6joIVidrhAiEAoJ3ScVBpUtHRM1VTThxUJEjcd3QrlusiVsOKi9AGZcA:QUQ3MjNmekdDRHkzUmJVS2JNUXoxaElnMzhqTUlHNC1SZm1MN2Q0c3FKVHZqNVozT3FQQkdIeDBPa3RpMjF1QTNvUnM0eEVDb292MVlPZGtwSVZ6emtJNGh3cFpNQVJsZnhZOVA2SS1QanRzeG1qWWVGTHZ2bDBJMXdiQkxxZFVHY01aQTUwUnRsZmVXRVZYN3NHMDV1RGUyTjg4a2VieG53; VISITOR_INFO1_LIVE=ptAfg5E8s6I; SIDCC=APoG2W_C_BmPlZUgezLm5gG2dAPNTt-k7xQZbXxWSQ-VAXc0naTCRv8bhIHNEvBe5lGzEFjiOLE; __Secure-1PSIDCC=APoG2W_nzkB0sibbfGKKeOeWhl6cvx0s-9nOO0eaJmAdgRSi-Cp6Q3lN_ErmiYtIN8Zum5WZnw; __Secure-3PSIDCC=APoG2W8ARstF7jRKDem_a6uiynMLQlrvwKcIF4enuPhoLUNEFRirfjJ7WUtPoSsFzgR1SIeq3ME; _ga=GA1.1.1207446393.1690688431; _gid=GA1.2.755430197.1690688431; _ga_M0180HEFCY=GS1.1.1690688431.1.0.1690688433.0.0.0; YSC=HY5Sef0oexA
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://www.youtube.com/s/desktop/83a619e0/jsbin/intersection-observer.min.vflset/intersection-observer.min.js
+HEADERS:
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Alt-Used: www.youtube.com
+Connection: keep-alive
+Referer: https://www.youtube.com/watch?v=IjIuDIKqzgc
+Cookie: SID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3_xEnLNex_J-gxbHgopyKpA.; __Secure-1PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-3PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-1PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm30jxyYmzcWQvDzStcqtH9YQ.; __Secure-3PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3-dArU1I7uGuUZrc9IiVL7Q.; HSID=A1cqb19h4TQNHaDqB; SSID=AYlT0VacCHYoYMZUp; APISID=ivRjYjK-0e2l1wZY/A8O1u5QLwduvhZSLW; SAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-1PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-3PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; PREF=f6=80&tz=America.Sao_Paulo; LOGIN_INFO=AFmmF2swRgIhAKBGR5Iw4D-iE2gJzuq9xM9ac4dkIT-_NqD6joIVidrhAiEAoJ3ScVBpUtHRM1VTThxUJEjcd3QrlusiVsOKi9AGZcA:QUQ3MjNmekdDRHkzUmJVS2JNUXoxaElnMzhqTUlHNC1SZm1MN2Q0c3FKVHZqNVozT3FQQkdIeDBPa3RpMjF1QTNvUnM0eEVDb292MVlPZGtwSVZ6emtJNGh3cFpNQVJsZnhZOVA2SS1QanRzeG1qWWVGTHZ2bDBJMXdiQkxxZFVHY01aQTUwUnRsZmVXRVZYN3NHMDV1RGUyTjg4a2VieG53; VISITOR_INFO1_LIVE=ptAfg5E8s6I; SIDCC=APoG2W_C_BmPlZUgezLm5gG2dAPNTt-k7xQZbXxWSQ-VAXc0naTCRv8bhIHNEvBe5lGzEFjiOLE; __Secure-1PSIDCC=APoG2W_nzkB0sibbfGKKeOeWhl6cvx0s-9nOO0eaJmAdgRSi-Cp6Q3lN_ErmiYtIN8Zum5WZnw; __Secure-3PSIDCC=APoG2W8ARstF7jRKDem_a6uiynMLQlrvwKcIF4enuPhoLUNEFRirfjJ7WUtPoSsFzgR1SIeq3ME; _ga=GA1.1.1207446393.1690688431; _gid=GA1.2.755430197.1690688431; _ga_M0180HEFCY=GS1.1.1690688431.1.0.1690688433.0.0.0; YSC=HY5Sef0oexA
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://www.youtube.com/s/desktop/83a619e0/jsbin/scheduler.vflset/scheduler.js
+HEADERS:
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Alt-Used: www.youtube.com
+Connection: keep-alive
+Referer: https://www.youtube.com/watch?v=IjIuDIKqzgc
+Cookie: SID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3_xEnLNex_J-gxbHgopyKpA.; __Secure-1PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-3PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-1PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm30jxyYmzcWQvDzStcqtH9YQ.; __Secure-3PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3-dArU1I7uGuUZrc9IiVL7Q.; HSID=A1cqb19h4TQNHaDqB; SSID=AYlT0VacCHYoYMZUp; APISID=ivRjYjK-0e2l1wZY/A8O1u5QLwduvhZSLW; SAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-1PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-3PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; PREF=f6=80&tz=America.Sao_Paulo; LOGIN_INFO=AFmmF2swRgIhAKBGR5Iw4D-iE2gJzuq9xM9ac4dkIT-_NqD6joIVidrhAiEAoJ3ScVBpUtHRM1VTThxUJEjcd3QrlusiVsOKi9AGZcA:QUQ3MjNmekdDRHkzUmJVS2JNUXoxaElnMzhqTUlHNC1SZm1MN2Q0c3FKVHZqNVozT3FQQkdIeDBPa3RpMjF1QTNvUnM0eEVDb292MVlPZGtwSVZ6emtJNGh3cFpNQVJsZnhZOVA2SS1QanRzeG1qWWVGTHZ2bDBJMXdiQkxxZFVHY01aQTUwUnRsZmVXRVZYN3NHMDV1RGUyTjg4a2VieG53; VISITOR_INFO1_LIVE=ptAfg5E8s6I; SIDCC=APoG2W_C_BmPlZUgezLm5gG2dAPNTt-k7xQZbXxWSQ-VAXc0naTCRv8bhIHNEvBe5lGzEFjiOLE; __Secure-1PSIDCC=APoG2W_nzkB0sibbfGKKeOeWhl6cvx0s-9nOO0eaJmAdgRSi-Cp6Q3lN_ErmiYtIN8Zum5WZnw; __Secure-3PSIDCC=APoG2W8ARstF7jRKDem_a6uiynMLQlrvwKcIF4enuPhoLUNEFRirfjJ7WUtPoSsFzgR1SIeq3ME; _ga=GA1.1.1207446393.1690688431; _gid=GA1.2.755430197.1690688431; _ga_M0180HEFCY=GS1.1.1690688431.1.0.1690688433.0.0.0; YSC=HY5Sef0oexA
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://www.youtube.com/s/desktop/83a619e0/jsbin/www-i18n-constants-pt_BR.vflset/www-i18n-constants.js
+HEADERS:
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Alt-Used: www.youtube.com
+Connection: keep-alive
+Referer: https://www.youtube.com/watch?v=IjIuDIKqzgc
+Cookie: SID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3_xEnLNex_J-gxbHgopyKpA.; __Secure-1PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-3PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-1PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm30jxyYmzcWQvDzStcqtH9YQ.; __Secure-3PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3-dArU1I7uGuUZrc9IiVL7Q.; HSID=A1cqb19h4TQNHaDqB; SSID=AYlT0VacCHYoYMZUp; APISID=ivRjYjK-0e2l1wZY/A8O1u5QLwduvhZSLW; SAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-1PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-3PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; PREF=f6=80&tz=America.Sao_Paulo; LOGIN_INFO=AFmmF2swRgIhAKBGR5Iw4D-iE2gJzuq9xM9ac4dkIT-_NqD6joIVidrhAiEAoJ3ScVBpUtHRM1VTThxUJEjcd3QrlusiVsOKi9AGZcA:QUQ3MjNmekdDRHkzUmJVS2JNUXoxaElnMzhqTUlHNC1SZm1MN2Q0c3FKVHZqNVozT3FQQkdIeDBPa3RpMjF1QTNvUnM0eEVDb292MVlPZGtwSVZ6emtJNGh3cFpNQVJsZnhZOVA2SS1QanRzeG1qWWVGTHZ2bDBJMXdiQkxxZFVHY01aQTUwUnRsZmVXRVZYN3NHMDV1RGUyTjg4a2VieG53; VISITOR_INFO1_LIVE=ptAfg5E8s6I; SIDCC=APoG2W_C_BmPlZUgezLm5gG2dAPNTt-k7xQZbXxWSQ-VAXc0naTCRv8bhIHNEvBe5lGzEFjiOLE; __Secure-1PSIDCC=APoG2W_nzkB0sibbfGKKeOeWhl6cvx0s-9nOO0eaJmAdgRSi-Cp6Q3lN_ErmiYtIN8Zum5WZnw; __Secure-3PSIDCC=APoG2W8ARstF7jRKDem_a6uiynMLQlrvwKcIF4enuPhoLUNEFRirfjJ7WUtPoSsFzgR1SIeq3ME; _ga=GA1.1.1207446393.1690688431; _gid=GA1.2.755430197.1690688431; _ga_M0180HEFCY=GS1.1.1690688431.1.0.1690688433.0.0.0; YSC=HY5Sef0oexA
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://rr1---sn-cg5npaqpbpu5acg-28il.googlevideo.com/generate_204
+HEADERS:
+Host: rr1---sn-cg5npaqpbpu5acg-28il.googlevideo.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Alt-Used: rr1---sn-cg5npaqpbpu5acg-28il.googlevideo.com
+Connection: keep-alive
+Referer: https://www.youtube.com/
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: cross-site
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://rr1---sn-cg5npaqpbpu5acg-28il.googlevideo.com/generate_204?conn2
+HEADERS:
+Host: rr1---sn-cg5npaqpbpu5acg-28il.googlevideo.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Alt-Used: rr1---sn-cg5npaqpbpu5acg-28il.googlevideo.com
+Connection: keep-alive
+Referer: https://www.youtube.com/
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: cross-site
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://www.youtube.com/s/desktop/83a619e0/jsbin/spf.vflset/spf.js
+HEADERS:
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Alt-Used: www.youtube.com
+Connection: keep-alive
+Referer: https://www.youtube.com/watch?v=IjIuDIKqzgc
+Cookie: SID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3_xEnLNex_J-gxbHgopyKpA.; __Secure-1PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-3PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-1PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm30jxyYmzcWQvDzStcqtH9YQ.; __Secure-3PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3-dArU1I7uGuUZrc9IiVL7Q.; HSID=A1cqb19h4TQNHaDqB; SSID=AYlT0VacCHYoYMZUp; APISID=ivRjYjK-0e2l1wZY/A8O1u5QLwduvhZSLW; SAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-1PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-3PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; PREF=f6=80&tz=America.Sao_Paulo; LOGIN_INFO=AFmmF2swRgIhAKBGR5Iw4D-iE2gJzuq9xM9ac4dkIT-_NqD6joIVidrhAiEAoJ3ScVBpUtHRM1VTThxUJEjcd3QrlusiVsOKi9AGZcA:QUQ3MjNmekdDRHkzUmJVS2JNUXoxaElnMzhqTUlHNC1SZm1MN2Q0c3FKVHZqNVozT3FQQkdIeDBPa3RpMjF1QTNvUnM0eEVDb292MVlPZGtwSVZ6emtJNGh3cFpNQVJsZnhZOVA2SS1QanRzeG1qWWVGTHZ2bDBJMXdiQkxxZFVHY01aQTUwUnRsZmVXRVZYN3NHMDV1RGUyTjg4a2VieG53; VISITOR_INFO1_LIVE=ptAfg5E8s6I; SIDCC=APoG2W_C_BmPlZUgezLm5gG2dAPNTt-k7xQZbXxWSQ-VAXc0naTCRv8bhIHNEvBe5lGzEFjiOLE; __Secure-1PSIDCC=APoG2W_nzkB0sibbfGKKeOeWhl6cvx0s-9nOO0eaJmAdgRSi-Cp6Q3lN_ErmiYtIN8Zum5WZnw; __Secure-3PSIDCC=APoG2W8ARstF7jRKDem_a6uiynMLQlrvwKcIF4enuPhoLUNEFRirfjJ7WUtPoSsFzgR1SIeq3ME; _ga=GA1.1.1207446393.1690688431; _gid=GA1.2.755430197.1690688431; _ga_M0180HEFCY=GS1.1.1690688431.1.0.1690688433.0.0.0; YSC=HY5Sef0oexA
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://www.youtube.com/s/desktop/83a619e0/jsbin/network.vflset/network.js
+HEADERS:
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Alt-Used: www.youtube.com
+Connection: keep-alive
+Referer: https://www.youtube.com/watch?v=IjIuDIKqzgc
+Cookie: SID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3_xEnLNex_J-gxbHgopyKpA.; __Secure-1PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-3PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-1PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm30jxyYmzcWQvDzStcqtH9YQ.; __Secure-3PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3-dArU1I7uGuUZrc9IiVL7Q.; HSID=A1cqb19h4TQNHaDqB; SSID=AYlT0VacCHYoYMZUp; APISID=ivRjYjK-0e2l1wZY/A8O1u5QLwduvhZSLW; SAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-1PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-3PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; PREF=f6=80&tz=America.Sao_Paulo; LOGIN_INFO=AFmmF2swRgIhAKBGR5Iw4D-iE2gJzuq9xM9ac4dkIT-_NqD6joIVidrhAiEAoJ3ScVBpUtHRM1VTThxUJEjcd3QrlusiVsOKi9AGZcA:QUQ3MjNmekdDRHkzUmJVS2JNUXoxaElnMzhqTUlHNC1SZm1MN2Q0c3FKVHZqNVozT3FQQkdIeDBPa3RpMjF1QTNvUnM0eEVDb292MVlPZGtwSVZ6emtJNGh3cFpNQVJsZnhZOVA2SS1QanRzeG1qWWVGTHZ2bDBJMXdiQkxxZFVHY01aQTUwUnRsZmVXRVZYN3NHMDV1RGUyTjg4a2VieG53; VISITOR_INFO1_LIVE=ptAfg5E8s6I; SIDCC=APoG2W_C_BmPlZUgezLm5gG2dAPNTt-k7xQZbXxWSQ-VAXc0naTCRv8bhIHNEvBe5lGzEFjiOLE; __Secure-1PSIDCC=APoG2W_nzkB0sibbfGKKeOeWhl6cvx0s-9nOO0eaJmAdgRSi-Cp6Q3lN_ErmiYtIN8Zum5WZnw; __Secure-3PSIDCC=APoG2W8ARstF7jRKDem_a6uiynMLQlrvwKcIF4enuPhoLUNEFRirfjJ7WUtPoSsFzgR1SIeq3ME; _ga=GA1.1.1207446393.1690688431; _gid=GA1.2.755430197.1690688431; _ga_M0180HEFCY=GS1.1.1690688431.1.0.1690688433.0.0.0; YSC=HY5Sef0oexA
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://www.youtube.com/s/player/0e6aaa83/player_ias.vflset/pt_BR/offline.js
+HEADERS:
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/watch?v=IjIuDIKqzgc
+Alt-Used: www.youtube.com
+Connection: keep-alive
+Cookie: SID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3_xEnLNex_J-gxbHgopyKpA.; __Secure-1PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-3PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-1PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm30jxyYmzcWQvDzStcqtH9YQ.; __Secure-3PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3-dArU1I7uGuUZrc9IiVL7Q.; HSID=A1cqb19h4TQNHaDqB; SSID=AYlT0VacCHYoYMZUp; APISID=ivRjYjK-0e2l1wZY/A8O1u5QLwduvhZSLW; SAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-1PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-3PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; PREF=f6=80&tz=America.Sao_Paulo; LOGIN_INFO=AFmmF2swRgIhAKBGR5Iw4D-iE2gJzuq9xM9ac4dkIT-_NqD6joIVidrhAiEAoJ3ScVBpUtHRM1VTThxUJEjcd3QrlusiVsOKi9AGZcA:QUQ3MjNmekdDRHkzUmJVS2JNUXoxaElnMzhqTUlHNC1SZm1MN2Q0c3FKVHZqNVozT3FQQkdIeDBPa3RpMjF1QTNvUnM0eEVDb292MVlPZGtwSVZ6emtJNGh3cFpNQVJsZnhZOVA2SS1QanRzeG1qWWVGTHZ2bDBJMXdiQkxxZFVHY01aQTUwUnRsZmVXRVZYN3NHMDV1RGUyTjg4a2VieG53; VISITOR_INFO1_LIVE=ptAfg5E8s6I; SIDCC=APoG2W_C_BmPlZUgezLm5gG2dAPNTt-k7xQZbXxWSQ-VAXc0naTCRv8bhIHNEvBe5lGzEFjiOLE; __Secure-1PSIDCC=APoG2W_nzkB0sibbfGKKeOeWhl6cvx0s-9nOO0eaJmAdgRSi-Cp6Q3lN_ErmiYtIN8Zum5WZnw; __Secure-3PSIDCC=APoG2W8ARstF7jRKDem_a6uiynMLQlrvwKcIF4enuPhoLUNEFRirfjJ7WUtPoSsFzgR1SIeq3ME; _ga=GA1.1.1207446393.1690688431; _gid=GA1.2.755430197.1690688431; _ga_M0180HEFCY=GS1.1.1690688431.1.0.1690688433.0.0.0; YSC=HY5Sef0oexA
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+POST: https://www.youtube.com/api/stats/qoe?fmt=137&cpn=c1PKiIsDgRH4nG-h&el=detailpage&ns=yt&fexp=23983296%2C23986027%2C23998837%2C24004644%2C24007246%2C24080738%2C24135310%2C24362619%2C24366065%2C24371398%2C24373977%2C24380264%2C24415864%2C24416291%2C24437577%2C24439361%2C24471201%2C24504433%2C24522523%2C24525413%2C24528734%2C24528992%2C24540282%2C24543709%2C24550458%2C24550951%2C24554039%2C24559327%2C24699899%2C51000013%2C51000316&cl=551026372&seq=1&docid=IjIuDIKqzgc&ei=LSbHZJ6WN5SH1sQPjoel6AY&event=streamingstats&osid=AAAAAKkd2C8%3AAOeUNAY4PZCsyRhpJEeGdd-1u0ghGZmi0A&plid=AAYBv8ZS-XKs6wTj&qclc=ChBjMVBLaUlzRGdSSDRuRy1oEAE&embargoed=0&cbr=Firefox&cbrver=102.0&c=WEB&cver=2.20230728.00.00&cplayer=UNIPLAYER&cos=X11&cplatform=DESKTOP&vps=0.000:N,0.004:N&vfs=0.004:137:137::s&view=0.004:356:200&bwe=0.004:864481&vis=0.004:0&cmt=0.004:0.000&bh=0.004:0.000
+HEADERS:
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/watch?v=IjIuDIKqzgc
+X-Goog-Visitor-Id: CgtwdEFmZzVFOHM2SSitzJymBg%3D%3D
+X-Goog-AuthUser: 0
+X-Yt-Auth-Test: test
+X-YouTube-Client-Name: 1
+X-YouTube-Client-Version: 2.20230728.00.00
+X-YouTube-Device: cbr=Firefox&cbrver=102.0&ceng=Gecko&cengver=102.0&cos=X11&cplatform=DESKTOP
+X-Youtube-Identity-Token: QUFFLUhqa2Y0WE8zZkpodlREUGd1LTh0V01ORmc4QXZNQXw=
+X-YouTube-Page-CL: 551741488
+X-YouTube-Page-Label: youtube.desktop.web_20230728_00_RC00
+X-YouTube-Utc-Offset: -180
+X-YouTube-Time-Zone: America/Sao_Paulo
+X-YouTube-Ad-Signals: dt=1690773038193&flash=0&frm&u_tz=-180&u_his=2&u_h=1080&u_w=1920&u_ah=1048&u_aw=1920&u_cd=24&bc=31&bih=858&biw=830&brdim=-26%2C9%2C-26%2C9%2C1920%2C32%2C830%2C943%2C830%2C858&vis=1&wgl=true&ca_type=image
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 226
+Origin: https://www.youtube.com
+Alt-Used: www.youtube.com
+Connection: keep-alive
+Cookie: SID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3_xEnLNex_J-gxbHgopyKpA.; __Secure-1PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-3PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-1PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm30jxyYmzcWQvDzStcqtH9YQ.; __Secure-3PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3-dArU1I7uGuUZrc9IiVL7Q.; HSID=A1cqb19h4TQNHaDqB; SSID=AYlT0VacCHYoYMZUp; APISID=ivRjYjK-0e2l1wZY/A8O1u5QLwduvhZSLW; SAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-1PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-3PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; PREF=f6=80&tz=America.Sao_Paulo; LOGIN_INFO=AFmmF2swRgIhAKBGR5Iw4D-iE2gJzuq9xM9ac4dkIT-_NqD6joIVidrhAiEAoJ3ScVBpUtHRM1VTThxUJEjcd3QrlusiVsOKi9AGZcA:QUQ3MjNmekdDRHkzUmJVS2JNUXoxaElnMzhqTUlHNC1SZm1MN2Q0c3FKVHZqNVozT3FQQkdIeDBPa3RpMjF1QTNvUnM0eEVDb292MVlPZGtwSVZ6emtJNGh3cFpNQVJsZnhZOVA2SS1QanRzeG1qWWVGTHZ2bDBJMXdiQkxxZFVHY01aQTUwUnRsZmVXRVZYN3NHMDV1RGUyTjg4a2VieG53; VISITOR_INFO1_LIVE=ptAfg5E8s6I; SIDCC=APoG2W_C_BmPlZUgezLm5gG2dAPNTt-k7xQZbXxWSQ-VAXc0naTCRv8bhIHNEvBe5lGzEFjiOLE; __Secure-1PSIDCC=APoG2W_nzkB0sibbfGKKeOeWhl6cvx0s-9nOO0eaJmAdgRSi-Cp6Q3lN_ErmiYtIN8Zum5WZnw; __Secure-3PSIDCC=APoG2W8ARstF7jRKDem_a6uiynMLQlrvwKcIF4enuPhoLUNEFRirfjJ7WUtPoSsFzgR1SIeq3ME; _ga=GA1.1.1207446393.1690688431; _gid=GA1.2.755430197.1690688431; _ga_M0180HEFCY=GS1.1.1690688431.1.0.1690688433.0.0.0; YSC=HY5Sef0oexA
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+POST: https://rr2---sn-cg5npaqpbpu5acg-28ie.googlevideo.com/videoplayback?expire=1690794637&ei=LSbHZKPQNJWF-LAPqIm7wA8&ip=2804%3A1128%3Abff7%3Ac900%3A52aa%3A329d%3Ab368%3Af320&id=o-ANQnF3GEYo2ljszSum0uhW5-J9EZf56UKYROJZ-YTiLM&itag=137&aitags=134%2C136%2C137%2C160%2C243&source=youtube&requiressl=yes&mh=08&mm=31%2C29&mn=sn-cg5npaqpbpu5acg-28ie%2Csn-gpv7ynes&ms=au%2Crdu&mv=m&mvi=2&pl=44&ctier=A&pfa=5&initcwndbps=1301250&hightc=yes&siu=1&spc=Ul2Sq5qdebpIl9a7h86aVwl4O1LJPQmj2R8geDzT4bzj2gW845Q0SqY&vprv=1&svpuc=1&mime=video%2Fmp4&ns=-JB3_yA9QH0LxE4unkKz1KgO&gir=yes&clen=18001310&dur=301.266&lmt=1675139536577553&mt=1690772972&fvip=3&keepalive=yes&fexp=24007246%2C51000013&beids=24350017&c=WEB&txp=6216224&n=_r6CeSpVBczpQQ&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cctier%2Cpfa%2Chightc%2Csiu%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRAIgBukXCpT13ZaLFP8ICfehcPffgFkKWM4I4tuIl_pUkekCIGycMdguDrxHCBj-9Pr13tiQyQkDnNJq6_GPIa_c9PqZ&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAOyz705L-D8Oj9GRU-RIsiTcVxNl31MDTAfRl8uPgoo_AiEAo_0Ry3siQ5j0zsofJlKs56l2MolbDnDVsI-dg-7BFX8%3D&alr=yes&cpn=c1PKiIsDgRH4nG-h&cver=2.20230728.00.00&range=0-554925&rn=1&rbuf=0&pot=Ih_WRNZFsoPwaud05nTlce5273PkceR073bmceJz4ziq&ump=1&srfvp=1
+HEADERS:
+Host: rr2---sn-cg5npaqpbpu5acg-28ie.googlevideo.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Content-Length: 2
+Origin: https://www.youtube.com
+Alt-Used: rr2---sn-cg5npaqpbpu5acg-28ie.googlevideo.com
+Connection: keep-alive
+Referer: https://www.youtube.com/
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+POST: https://rr2---sn-cg5npaqpbpu5acg-28ie.googlevideo.com/videoplayback?expire=1690794637&ei=LSbHZKPQNJWF-LAPqIm7wA8&ip=2804%3A1128%3Abff7%3Ac900%3A52aa%3A329d%3Ab368%3Af320&id=o-ANQnF3GEYo2ljszSum0uhW5-J9EZf56UKYROJZ-YTiLM&itag=251&source=youtube&requiressl=yes&mh=08&mm=31%2C29&mn=sn-cg5npaqpbpu5acg-28ie%2Csn-gpv7ynes&ms=au%2Crdu&mv=m&mvi=2&pl=44&ctier=A&pfa=5&initcwndbps=1301250&hightc=yes&siu=1&spc=Ul2Sq5qdebpIl9a7h86aVwl4O1LJPQmj2R8geDzT4bzj2gW845Q0SqY&vprv=1&svpuc=1&mime=audio%2Fwebm&ns=-JB3_yA9QH0LxE4unkKz1KgO&gir=yes&clen=3521761&dur=301.281&lmt=1615714437422902&mt=1690772972&fvip=3&keepalive=yes&fexp=24007246%2C51000013&beids=24350017&c=WEB&txp=6211222&n=_r6CeSpVBczpQQ&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cctier%2Cpfa%2Chightc%2Csiu%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRAIgZiFRkqoEBdNnRKor-VlkuKbO8c8BVe8Pk0bMSFhB2Y0CICf5Kfk30Xh3lCYSZZ-GzXKwZ9yqtVfibW6m2UCEsWc2&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAOyz705L-D8Oj9GRU-RIsiTcVxNl31MDTAfRl8uPgoo_AiEAo_0Ry3siQ5j0zsofJlKs56l2MolbDnDVsI-dg-7BFX8%3D&alr=yes&cpn=c1PKiIsDgRH4nG-h&cver=2.20230728.00.00&range=0-66318&rn=2&rbuf=0&pot=Ih9Ct0K2JnBkmXOHcodxgnqFe4BwgnCHe4VygnaAd8s-&ump=1&srfvp=1
+HEADERS:
+Host: rr2---sn-cg5npaqpbpu5acg-28ie.googlevideo.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Content-Length: 2
+Origin: https://www.youtube.com
+Alt-Used: rr2---sn-cg5npaqpbpu5acg-28ie.googlevideo.com
+Connection: keep-alive
+Referer: https://www.youtube.com/
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://www.youtube.com/s/player/0e6aaa83/player_ias.vflset/pt_BR/remote.js
+HEADERS:
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/watch?v=IjIuDIKqzgc
+Alt-Used: www.youtube.com
+Connection: keep-alive
+Cookie: SID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3_xEnLNex_J-gxbHgopyKpA.; __Secure-1PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-3PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-1PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm30jxyYmzcWQvDzStcqtH9YQ.; __Secure-3PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3-dArU1I7uGuUZrc9IiVL7Q.; HSID=A1cqb19h4TQNHaDqB; SSID=AYlT0VacCHYoYMZUp; APISID=ivRjYjK-0e2l1wZY/A8O1u5QLwduvhZSLW; SAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-1PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-3PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; PREF=f6=80&tz=America.Sao_Paulo; LOGIN_INFO=AFmmF2swRgIhAKBGR5Iw4D-iE2gJzuq9xM9ac4dkIT-_NqD6joIVidrhAiEAoJ3ScVBpUtHRM1VTThxUJEjcd3QrlusiVsOKi9AGZcA:QUQ3MjNmekdDRHkzUmJVS2JNUXoxaElnMzhqTUlHNC1SZm1MN2Q0c3FKVHZqNVozT3FQQkdIeDBPa3RpMjF1QTNvUnM0eEVDb292MVlPZGtwSVZ6emtJNGh3cFpNQVJsZnhZOVA2SS1QanRzeG1qWWVGTHZ2bDBJMXdiQkxxZFVHY01aQTUwUnRsZmVXRVZYN3NHMDV1RGUyTjg4a2VieG53; VISITOR_INFO1_LIVE=ptAfg5E8s6I; SIDCC=APoG2W_C_BmPlZUgezLm5gG2dAPNTt-k7xQZbXxWSQ-VAXc0naTCRv8bhIHNEvBe5lGzEFjiOLE; __Secure-1PSIDCC=APoG2W_nzkB0sibbfGKKeOeWhl6cvx0s-9nOO0eaJmAdgRSi-Cp6Q3lN_ErmiYtIN8Zum5WZnw; __Secure-3PSIDCC=APoG2W8ARstF7jRKDem_a6uiynMLQlrvwKcIF4enuPhoLUNEFRirfjJ7WUtPoSsFzgR1SIeq3ME; _ga=GA1.1.1207446393.1690688431; _gid=GA1.2.755430197.1690688431; _ga_M0180HEFCY=GS1.1.1690688431.1.0.1690688433.0.0.0; YSC=HY5Sef0oexA
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://www.youtube.com/s/player/0e6aaa83/player_ias.vflset/pt_BR/miniplayer.js
+HEADERS:
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/watch?v=IjIuDIKqzgc
+Alt-Used: www.youtube.com
+Connection: keep-alive
+Cookie: SID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3_xEnLNex_J-gxbHgopyKpA.; __Secure-1PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-3PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-1PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm30jxyYmzcWQvDzStcqtH9YQ.; __Secure-3PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3-dArU1I7uGuUZrc9IiVL7Q.; HSID=A1cqb19h4TQNHaDqB; SSID=AYlT0VacCHYoYMZUp; APISID=ivRjYjK-0e2l1wZY/A8O1u5QLwduvhZSLW; SAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-1PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-3PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; PREF=f6=80&tz=America.Sao_Paulo; LOGIN_INFO=AFmmF2swRgIhAKBGR5Iw4D-iE2gJzuq9xM9ac4dkIT-_NqD6joIVidrhAiEAoJ3ScVBpUtHRM1VTThxUJEjcd3QrlusiVsOKi9AGZcA:QUQ3MjNmekdDRHkzUmJVS2JNUXoxaElnMzhqTUlHNC1SZm1MN2Q0c3FKVHZqNVozT3FQQkdIeDBPa3RpMjF1QTNvUnM0eEVDb292MVlPZGtwSVZ6emtJNGh3cFpNQVJsZnhZOVA2SS1QanRzeG1qWWVGTHZ2bDBJMXdiQkxxZFVHY01aQTUwUnRsZmVXRVZYN3NHMDV1RGUyTjg4a2VieG53; VISITOR_INFO1_LIVE=ptAfg5E8s6I; SIDCC=APoG2W_C_BmPlZUgezLm5gG2dAPNTt-k7xQZbXxWSQ-VAXc0naTCRv8bhIHNEvBe5lGzEFjiOLE; __Secure-1PSIDCC=APoG2W_nzkB0sibbfGKKeOeWhl6cvx0s-9nOO0eaJmAdgRSi-Cp6Q3lN_ErmiYtIN8Zum5WZnw; __Secure-3PSIDCC=APoG2W8ARstF7jRKDem_a6uiynMLQlrvwKcIF4enuPhoLUNEFRirfjJ7WUtPoSsFzgR1SIeq3ME; _ga=GA1.1.1207446393.1690688431; _gid=GA1.2.755430197.1690688431; _ga_M0180HEFCY=GS1.1.1690688431.1.0.1690688433.0.0.0; YSC=HY5Sef0oexA
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://www.youtube.com/s/player/0e6aaa83/player_ias.vflset/pt_BR/captions.js
+HEADERS:
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/watch?v=IjIuDIKqzgc
+Alt-Used: www.youtube.com
+Connection: keep-alive
+Cookie: SID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3_xEnLNex_J-gxbHgopyKpA.; __Secure-1PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-3PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-1PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm30jxyYmzcWQvDzStcqtH9YQ.; __Secure-3PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3-dArU1I7uGuUZrc9IiVL7Q.; HSID=A1cqb19h4TQNHaDqB; SSID=AYlT0VacCHYoYMZUp; APISID=ivRjYjK-0e2l1wZY/A8O1u5QLwduvhZSLW; SAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-1PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-3PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; PREF=f6=80&tz=America.Sao_Paulo; LOGIN_INFO=AFmmF2swRgIhAKBGR5Iw4D-iE2gJzuq9xM9ac4dkIT-_NqD6joIVidrhAiEAoJ3ScVBpUtHRM1VTThxUJEjcd3QrlusiVsOKi9AGZcA:QUQ3MjNmekdDRHkzUmJVS2JNUXoxaElnMzhqTUlHNC1SZm1MN2Q0c3FKVHZqNVozT3FQQkdIeDBPa3RpMjF1QTNvUnM0eEVDb292MVlPZGtwSVZ6emtJNGh3cFpNQVJsZnhZOVA2SS1QanRzeG1qWWVGTHZ2bDBJMXdiQkxxZFVHY01aQTUwUnRsZmVXRVZYN3NHMDV1RGUyTjg4a2VieG53; VISITOR_INFO1_LIVE=ptAfg5E8s6I; SIDCC=APoG2W_C_BmPlZUgezLm5gG2dAPNTt-k7xQZbXxWSQ-VAXc0naTCRv8bhIHNEvBe5lGzEFjiOLE; __Secure-1PSIDCC=APoG2W_nzkB0sibbfGKKeOeWhl6cvx0s-9nOO0eaJmAdgRSi-Cp6Q3lN_ErmiYtIN8Zum5WZnw; __Secure-3PSIDCC=APoG2W8ARstF7jRKDem_a6uiynMLQlrvwKcIF4enuPhoLUNEFRirfjJ7WUtPoSsFzgR1SIeq3ME; _ga=GA1.1.1207446393.1690688431; _gid=GA1.2.755430197.1690688431; _ga_M0180HEFCY=GS1.1.1690688431.1.0.1690688433.0.0.0; YSC=HY5Sef0oexA
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://www.youtube.com/s/player/0e6aaa83/player_ias.vflset/pt_BR/endscreen.js
+HEADERS:
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/watch?v=IjIuDIKqzgc
+Alt-Used: www.youtube.com
+Connection: keep-alive
+Cookie: SID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3_xEnLNex_J-gxbHgopyKpA.; __Secure-1PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-3PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-1PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm30jxyYmzcWQvDzStcqtH9YQ.; __Secure-3PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3-dArU1I7uGuUZrc9IiVL7Q.; HSID=A1cqb19h4TQNHaDqB; SSID=AYlT0VacCHYoYMZUp; APISID=ivRjYjK-0e2l1wZY/A8O1u5QLwduvhZSLW; SAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-1PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-3PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; PREF=f6=80&tz=America.Sao_Paulo; LOGIN_INFO=AFmmF2swRgIhAKBGR5Iw4D-iE2gJzuq9xM9ac4dkIT-_NqD6joIVidrhAiEAoJ3ScVBpUtHRM1VTThxUJEjcd3QrlusiVsOKi9AGZcA:QUQ3MjNmekdDRHkzUmJVS2JNUXoxaElnMzhqTUlHNC1SZm1MN2Q0c3FKVHZqNVozT3FQQkdIeDBPa3RpMjF1QTNvUnM0eEVDb292MVlPZGtwSVZ6emtJNGh3cFpNQVJsZnhZOVA2SS1QanRzeG1qWWVGTHZ2bDBJMXdiQkxxZFVHY01aQTUwUnRsZmVXRVZYN3NHMDV1RGUyTjg4a2VieG53; VISITOR_INFO1_LIVE=ptAfg5E8s6I; SIDCC=APoG2W_C_BmPlZUgezLm5gG2dAPNTt-k7xQZbXxWSQ-VAXc0naTCRv8bhIHNEvBe5lGzEFjiOLE; __Secure-1PSIDCC=APoG2W_nzkB0sibbfGKKeOeWhl6cvx0s-9nOO0eaJmAdgRSi-Cp6Q3lN_ErmiYtIN8Zum5WZnw; __Secure-3PSIDCC=APoG2W8ARstF7jRKDem_a6uiynMLQlrvwKcIF4enuPhoLUNEFRirfjJ7WUtPoSsFzgR1SIeq3ME; _ga=GA1.1.1207446393.1690688431; _gid=GA1.2.755430197.1690688431; _ga_M0180HEFCY=GS1.1.1690688431.1.0.1690688433.0.0.0; YSC=HY5Sef0oexA
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://www.youtube.com/s/player/0e6aaa83/player_ias.vflset/pt_BR/annotations_module.js
+HEADERS:
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/watch?v=IjIuDIKqzgc
+Alt-Used: www.youtube.com
+Connection: keep-alive
+Cookie: SID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3_xEnLNex_J-gxbHgopyKpA.; __Secure-1PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-3PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-1PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm30jxyYmzcWQvDzStcqtH9YQ.; __Secure-3PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3-dArU1I7uGuUZrc9IiVL7Q.; HSID=A1cqb19h4TQNHaDqB; SSID=AYlT0VacCHYoYMZUp; APISID=ivRjYjK-0e2l1wZY/A8O1u5QLwduvhZSLW; SAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-1PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-3PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; PREF=f6=80&tz=America.Sao_Paulo; LOGIN_INFO=AFmmF2swRgIhAKBGR5Iw4D-iE2gJzuq9xM9ac4dkIT-_NqD6joIVidrhAiEAoJ3ScVBpUtHRM1VTThxUJEjcd3QrlusiVsOKi9AGZcA:QUQ3MjNmekdDRHkzUmJVS2JNUXoxaElnMzhqTUlHNC1SZm1MN2Q0c3FKVHZqNVozT3FQQkdIeDBPa3RpMjF1QTNvUnM0eEVDb292MVlPZGtwSVZ6emtJNGh3cFpNQVJsZnhZOVA2SS1QanRzeG1qWWVGTHZ2bDBJMXdiQkxxZFVHY01aQTUwUnRsZmVXRVZYN3NHMDV1RGUyTjg4a2VieG53; VISITOR_INFO1_LIVE=ptAfg5E8s6I; SIDCC=APoG2W_C_BmPlZUgezLm5gG2dAPNTt-k7xQZbXxWSQ-VAXc0naTCRv8bhIHNEvBe5lGzEFjiOLE; __Secure-1PSIDCC=APoG2W_nzkB0sibbfGKKeOeWhl6cvx0s-9nOO0eaJmAdgRSi-Cp6Q3lN_ErmiYtIN8Zum5WZnw; __Secure-3PSIDCC=APoG2W8ARstF7jRKDem_a6uiynMLQlrvwKcIF4enuPhoLUNEFRirfjJ7WUtPoSsFzgR1SIeq3ME; _ga=GA1.1.1207446393.1690688431; _gid=GA1.2.755430197.1690688431; _ga_M0180HEFCY=GS1.1.1690688431.1.0.1690688433.0.0.0; YSC=HY5Sef0oexA
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://www.youtube.com/s/player/0e6aaa83/player_ias.vflset/pt_BR/heartbeat.js
+HEADERS:
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/watch?v=IjIuDIKqzgc
+Alt-Used: www.youtube.com
+Connection: keep-alive
+Cookie: SID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3_xEnLNex_J-gxbHgopyKpA.; __Secure-1PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-3PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-1PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm30jxyYmzcWQvDzStcqtH9YQ.; __Secure-3PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3-dArU1I7uGuUZrc9IiVL7Q.; HSID=A1cqb19h4TQNHaDqB; SSID=AYlT0VacCHYoYMZUp; APISID=ivRjYjK-0e2l1wZY/A8O1u5QLwduvhZSLW; SAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-1PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-3PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; PREF=f6=80&tz=America.Sao_Paulo; LOGIN_INFO=AFmmF2swRgIhAKBGR5Iw4D-iE2gJzuq9xM9ac4dkIT-_NqD6joIVidrhAiEAoJ3ScVBpUtHRM1VTThxUJEjcd3QrlusiVsOKi9AGZcA:QUQ3MjNmekdDRHkzUmJVS2JNUXoxaElnMzhqTUlHNC1SZm1MN2Q0c3FKVHZqNVozT3FQQkdIeDBPa3RpMjF1QTNvUnM0eEVDb292MVlPZGtwSVZ6emtJNGh3cFpNQVJsZnhZOVA2SS1QanRzeG1qWWVGTHZ2bDBJMXdiQkxxZFVHY01aQTUwUnRsZmVXRVZYN3NHMDV1RGUyTjg4a2VieG53; VISITOR_INFO1_LIVE=ptAfg5E8s6I; SIDCC=APoG2W_C_BmPlZUgezLm5gG2dAPNTt-k7xQZbXxWSQ-VAXc0naTCRv8bhIHNEvBe5lGzEFjiOLE; __Secure-1PSIDCC=APoG2W_nzkB0sibbfGKKeOeWhl6cvx0s-9nOO0eaJmAdgRSi-Cp6Q3lN_ErmiYtIN8Zum5WZnw; __Secure-3PSIDCC=APoG2W8ARstF7jRKDem_a6uiynMLQlrvwKcIF4enuPhoLUNEFRirfjJ7WUtPoSsFzgR1SIeq3ME; _ga=GA1.1.1207446393.1690688431; _gid=GA1.2.755430197.1690688431; _ga_M0180HEFCY=GS1.1.1690688431.1.0.1690688433.0.0.0; YSC=HY5Sef0oexA
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://i.ytimg.com/an/9ZCfQCZ6ZUaD7MyaQuIyxQ/featured_channel.jpg?v=5ef0e1f7
+HEADERS:
+Host: i.ytimg.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Alt-Used: i.ytimg.com
+Connection: keep-alive
+Referer: https://www.youtube.com/
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: cross-site
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+POST: https://rr2---sn-cg5npaqpbpu5acg-28ie.googlevideo.com/videoplayback?expire=1690794637&ei=LSbHZKPQNJWF-LAPqIm7wA8&ip=2804%3A1128%3Abff7%3Ac900%3A52aa%3A329d%3Ab368%3Af320&id=o-ANQnF3GEYo2ljszSum0uhW5-J9EZf56UKYROJZ-YTiLM&itag=251&source=youtube&requiressl=yes&mh=08&mm=31%2C29&mn=sn-cg5npaqpbpu5acg-28ie%2Csn-gpv7ynes&ms=au%2Crdu&mv=m&mvi=2&pl=44&ctier=A&pfa=5&initcwndbps=1301250&hightc=yes&siu=1&spc=Ul2Sq5qdebpIl9a7h86aVwl4O1LJPQmj2R8geDzT4bzj2gW845Q0SqY&vprv=1&svpuc=1&mime=audio%2Fwebm&ns=-JB3_yA9QH0LxE4unkKz1KgO&gir=yes&clen=3521761&dur=301.281&lmt=1615714437422902&mt=1690772972&fvip=3&keepalive=yes&fexp=24007246%2C51000013&beids=24350017&c=WEB&txp=6211222&n=_r6CeSpVBczpQQ&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cctier%2Cpfa%2Chightc%2Csiu%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRAIgZiFRkqoEBdNnRKor-VlkuKbO8c8BVe8Pk0bMSFhB2Y0CICf5Kfk30Xh3lCYSZZ-GzXKwZ9yqtVfibW6m2UCEsWc2&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAOyz705L-D8Oj9GRU-RIsiTcVxNl31MDTAfRl8uPgoo_AiEAo_0Ry3siQ5j0zsofJlKs56l2MolbDnDVsI-dg-7BFX8%3D&alr=yes&cpn=c1PKiIsDgRH4nG-h&cver=2.20230728.00.00&range=66319-129004&rn=3&rbuf=5112&pot=Ih-ywrLD1gWU7IPygvKB94rwi_WA94Dyi_CC94b1h77O&ump=1&srfvp=1
+HEADERS:
+Host: rr2---sn-cg5npaqpbpu5acg-28ie.googlevideo.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Content-Length: 2
+Origin: https://www.youtube.com
+Alt-Used: rr2---sn-cg5npaqpbpu5acg-28ie.googlevideo.com
+Connection: keep-alive
+Referer: https://www.youtube.com/
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+POST: https://rr2---sn-cg5npaqpbpu5acg-28ie.googlevideo.com/videoplayback?expire=1690794637&ei=LSbHZKPQNJWF-LAPqIm7wA8&ip=2804%3A1128%3Abff7%3Ac900%3A52aa%3A329d%3Ab368%3Af320&id=o-ANQnF3GEYo2ljszSum0uhW5-J9EZf56UKYROJZ-YTiLM&itag=251&source=youtube&requiressl=yes&mh=08&mm=31%2C29&mn=sn-cg5npaqpbpu5acg-28ie%2Csn-gpv7ynes&ms=au%2Crdu&mv=m&mvi=2&pl=44&ctier=A&pfa=5&initcwndbps=1301250&hightc=yes&siu=1&spc=Ul2Sq5qdebpIl9a7h86aVwl4O1LJPQmj2R8geDzT4bzj2gW845Q0SqY&vprv=1&svpuc=1&mime=audio%2Fwebm&ns=-JB3_yA9QH0LxE4unkKz1KgO&gir=yes&clen=3521761&dur=301.281&lmt=1615714437422902&mt=1690772972&fvip=3&keepalive=yes&fexp=24007246%2C51000013&beids=24350017&c=WEB&txp=6211222&n=_r6CeSpVBczpQQ&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cctier%2Cpfa%2Chightc%2Csiu%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRAIgZiFRkqoEBdNnRKor-VlkuKbO8c8BVe8Pk0bMSFhB2Y0CICf5Kfk30Xh3lCYSZZ-GzXKwZ9yqtVfibW6m2UCEsWc2&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAOyz705L-D8Oj9GRU-RIsiTcVxNl31MDTAfRl8uPgoo_AiEAo_0Ry3siQ5j0zsofJlKs56l2MolbDnDVsI-dg-7BFX8%3D&alr=yes&cpn=c1PKiIsDgRH4nG-h&cver=2.20230728.00.00&range=129005-261630&rn=4&rbuf=10001&pot=Ih_WyNbJsg_w5uf45vjl_e767__k_eT47_rm_eL_47Sq&ump=1&srfvp=1
+HEADERS:
+Host: rr2---sn-cg5npaqpbpu5acg-28ie.googlevideo.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Content-Length: 2
+Origin: https://www.youtube.com
+Alt-Used: rr2---sn-cg5npaqpbpu5acg-28ie.googlevideo.com
+Connection: keep-alive
+Referer: https://www.youtube.com/
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://www.youtube.com/sw.js
+HEADERS:
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Service-Worker: script
+Alt-Used: www.youtube.com
+Connection: keep-alive
+Cookie: SID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3_xEnLNex_J-gxbHgopyKpA.; __Secure-1PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-3PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-1PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm30jxyYmzcWQvDzStcqtH9YQ.; __Secure-3PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3-dArU1I7uGuUZrc9IiVL7Q.; HSID=A1cqb19h4TQNHaDqB; SSID=AYlT0VacCHYoYMZUp; APISID=ivRjYjK-0e2l1wZY/A8O1u5QLwduvhZSLW; SAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-1PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-3PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; PREF=f6=80&tz=America.Sao_Paulo; LOGIN_INFO=AFmmF2swRgIhAKBGR5Iw4D-iE2gJzuq9xM9ac4dkIT-_NqD6joIVidrhAiEAoJ3ScVBpUtHRM1VTThxUJEjcd3QrlusiVsOKi9AGZcA:QUQ3MjNmekdDRHkzUmJVS2JNUXoxaElnMzhqTUlHNC1SZm1MN2Q0c3FKVHZqNVozT3FQQkdIeDBPa3RpMjF1QTNvUnM0eEVDb292MVlPZGtwSVZ6emtJNGh3cFpNQVJsZnhZOVA2SS1QanRzeG1qWWVGTHZ2bDBJMXdiQkxxZFVHY01aQTUwUnRsZmVXRVZYN3NHMDV1RGUyTjg4a2VieG53; VISITOR_INFO1_LIVE=ptAfg5E8s6I; SIDCC=APoG2W_C_BmPlZUgezLm5gG2dAPNTt-k7xQZbXxWSQ-VAXc0naTCRv8bhIHNEvBe5lGzEFjiOLE; __Secure-1PSIDCC=APoG2W_nzkB0sibbfGKKeOeWhl6cvx0s-9nOO0eaJmAdgRSi-Cp6Q3lN_ErmiYtIN8Zum5WZnw; __Secure-3PSIDCC=APoG2W8ARstF7jRKDem_a6uiynMLQlrvwKcIF4enuPhoLUNEFRirfjJ7WUtPoSsFzgR1SIeq3ME; _ga=GA1.1.1207446393.1690688431; _gid=GA1.2.755430197.1690688431; _ga_M0180HEFCY=GS1.1.1690688431.1.0.1690688433.0.0.0; YSC=HY5Sef0oexA
+Sec-Fetch-Dest: serviceworker
+Sec-Fetch-Mode: same-origin
+Sec-Fetch-Site: same-origin
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://www.youtube.com/s/desktop/51e20ad6/jsbin/serviceworker-notifications.vflset/serviceworker-notifications.js
+HEADERS:
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Service-Worker: script
+Alt-Used: www.youtube.com
+Connection: keep-alive
+Cookie: SID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3_xEnLNex_J-gxbHgopyKpA.; __Secure-1PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-3PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-1PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm30jxyYmzcWQvDzStcqtH9YQ.; __Secure-3PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3-dArU1I7uGuUZrc9IiVL7Q.; HSID=A1cqb19h4TQNHaDqB; SSID=AYlT0VacCHYoYMZUp; APISID=ivRjYjK-0e2l1wZY/A8O1u5QLwduvhZSLW; SAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-1PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-3PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; PREF=f6=80&tz=America.Sao_Paulo; LOGIN_INFO=AFmmF2swRgIhAKBGR5Iw4D-iE2gJzuq9xM9ac4dkIT-_NqD6joIVidrhAiEAoJ3ScVBpUtHRM1VTThxUJEjcd3QrlusiVsOKi9AGZcA:QUQ3MjNmekdDRHkzUmJVS2JNUXoxaElnMzhqTUlHNC1SZm1MN2Q0c3FKVHZqNVozT3FQQkdIeDBPa3RpMjF1QTNvUnM0eEVDb292MVlPZGtwSVZ6emtJNGh3cFpNQVJsZnhZOVA2SS1QanRzeG1qWWVGTHZ2bDBJMXdiQkxxZFVHY01aQTUwUnRsZmVXRVZYN3NHMDV1RGUyTjg4a2VieG53; VISITOR_INFO1_LIVE=ptAfg5E8s6I; SIDCC=APoG2W_C_BmPlZUgezLm5gG2dAPNTt-k7xQZbXxWSQ-VAXc0naTCRv8bhIHNEvBe5lGzEFjiOLE; __Secure-1PSIDCC=APoG2W_nzkB0sibbfGKKeOeWhl6cvx0s-9nOO0eaJmAdgRSi-Cp6Q3lN_ErmiYtIN8Zum5WZnw; __Secure-3PSIDCC=APoG2W8ARstF7jRKDem_a6uiynMLQlrvwKcIF4enuPhoLUNEFRirfjJ7WUtPoSsFzgR1SIeq3ME; _ga=GA1.1.1207446393.1690688431; _gid=GA1.2.755430197.1690688431; _ga_M0180HEFCY=GS1.1.1690688431.1.0.1690688433.0.0.0; YSC=HY5Sef0oexA
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://www.youtube.com/s/desktop/83a619e0/jsbin/serviceworker-notifications.vflset/serviceworker-notifications.js
+HEADERS:
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Service-Worker: script
+Alt-Used: www.youtube.com
+Connection: keep-alive
+Cookie: SID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3_xEnLNex_J-gxbHgopyKpA.; __Secure-1PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-3PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-1PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm30jxyYmzcWQvDzStcqtH9YQ.; __Secure-3PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3-dArU1I7uGuUZrc9IiVL7Q.; HSID=A1cqb19h4TQNHaDqB; SSID=AYlT0VacCHYoYMZUp; APISID=ivRjYjK-0e2l1wZY/A8O1u5QLwduvhZSLW; SAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-1PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-3PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; PREF=f6=80&tz=America.Sao_Paulo; LOGIN_INFO=AFmmF2swRgIhAKBGR5Iw4D-iE2gJzuq9xM9ac4dkIT-_NqD6joIVidrhAiEAoJ3ScVBpUtHRM1VTThxUJEjcd3QrlusiVsOKi9AGZcA:QUQ3MjNmekdDRHkzUmJVS2JNUXoxaElnMzhqTUlHNC1SZm1MN2Q0c3FKVHZqNVozT3FQQkdIeDBPa3RpMjF1QTNvUnM0eEVDb292MVlPZGtwSVZ6emtJNGh3cFpNQVJsZnhZOVA2SS1QanRzeG1qWWVGTHZ2bDBJMXdiQkxxZFVHY01aQTUwUnRsZmVXRVZYN3NHMDV1RGUyTjg4a2VieG53; VISITOR_INFO1_LIVE=ptAfg5E8s6I; SIDCC=APoG2W_C_BmPlZUgezLm5gG2dAPNTt-k7xQZbXxWSQ-VAXc0naTCRv8bhIHNEvBe5lGzEFjiOLE; __Secure-1PSIDCC=APoG2W_nzkB0sibbfGKKeOeWhl6cvx0s-9nOO0eaJmAdgRSi-Cp6Q3lN_ErmiYtIN8Zum5WZnw; __Secure-3PSIDCC=APoG2W8ARstF7jRKDem_a6uiynMLQlrvwKcIF4enuPhoLUNEFRirfjJ7WUtPoSsFzgR1SIeq3ME; _ga=GA1.1.1207446393.1690688431; _gid=GA1.2.755430197.1690688431; _ga_M0180HEFCY=GS1.1.1690688431.1.0.1690688433.0.0.0; YSC=HY5Sef0oexA
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://www.youtube.com/s/desktop/83a619e0/img/favicon_144x144.png
+HEADERS:
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/watch?v=IjIuDIKqzgc
+Alt-Used: www.youtube.com
+Connection: keep-alive
+Cookie: SID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3_xEnLNex_J-gxbHgopyKpA.; __Secure-1PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-3PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-1PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm30jxyYmzcWQvDzStcqtH9YQ.; __Secure-3PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3-dArU1I7uGuUZrc9IiVL7Q.; HSID=A1cqb19h4TQNHaDqB; SSID=AYlT0VacCHYoYMZUp; APISID=ivRjYjK-0e2l1wZY/A8O1u5QLwduvhZSLW; SAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-1PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-3PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; PREF=f6=80&tz=America.Sao_Paulo; LOGIN_INFO=AFmmF2swRgIhAKBGR5Iw4D-iE2gJzuq9xM9ac4dkIT-_NqD6joIVidrhAiEAoJ3ScVBpUtHRM1VTThxUJEjcd3QrlusiVsOKi9AGZcA:QUQ3MjNmekdDRHkzUmJVS2JNUXoxaElnMzhqTUlHNC1SZm1MN2Q0c3FKVHZqNVozT3FQQkdIeDBPa3RpMjF1QTNvUnM0eEVDb292MVlPZGtwSVZ6emtJNGh3cFpNQVJsZnhZOVA2SS1QanRzeG1qWWVGTHZ2bDBJMXdiQkxxZFVHY01aQTUwUnRsZmVXRVZYN3NHMDV1RGUyTjg4a2VieG53; VISITOR_INFO1_LIVE=ptAfg5E8s6I; SIDCC=APoG2W99IX5kuYl3DGBhZOfaLNFmva0hTD1NEFZ0AMT1x1pWONjXKajaljoyfhq8lEYad1GphpQ; __Secure-1PSIDCC=APoG2W_pfgygPs069IRfTyILcZOF_9S5eOPJpu1duowm7hS-wFIIduDIrYzRtYchdATmMr69Bg; __Secure-3PSIDCC=APoG2W_gCNRgpPLoIhNTiB3TJx82gjCiiNejHxP9dgOCQ-G-rLdAsNui8RXkZg60Zcowqgtf1Js; _ga=GA1.1.1207446393.1690688431; _gid=GA1.2.755430197.1690688431; _ga_M0180HEFCY=GS1.1.1690688431.1.0.1690688433.0.0.0; YSC=HY5Sef0oexA
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://www.youtube.com/s/desktop/83a619e0/img/favicon.ico
+HEADERS:
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/watch?v=IjIuDIKqzgc
+Alt-Used: www.youtube.com
+Connection: keep-alive
+Cookie: SID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3_xEnLNex_J-gxbHgopyKpA.; __Secure-1PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-3PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-1PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm30jxyYmzcWQvDzStcqtH9YQ.; __Secure-3PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3-dArU1I7uGuUZrc9IiVL7Q.; HSID=A1cqb19h4TQNHaDqB; SSID=AYlT0VacCHYoYMZUp; APISID=ivRjYjK-0e2l1wZY/A8O1u5QLwduvhZSLW; SAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-1PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-3PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; PREF=f6=80&tz=America.Sao_Paulo; LOGIN_INFO=AFmmF2swRgIhAKBGR5Iw4D-iE2gJzuq9xM9ac4dkIT-_NqD6joIVidrhAiEAoJ3ScVBpUtHRM1VTThxUJEjcd3QrlusiVsOKi9AGZcA:QUQ3MjNmekdDRHkzUmJVS2JNUXoxaElnMzhqTUlHNC1SZm1MN2Q0c3FKVHZqNVozT3FQQkdIeDBPa3RpMjF1QTNvUnM0eEVDb292MVlPZGtwSVZ6emtJNGh3cFpNQVJsZnhZOVA2SS1QanRzeG1qWWVGTHZ2bDBJMXdiQkxxZFVHY01aQTUwUnRsZmVXRVZYN3NHMDV1RGUyTjg4a2VieG53; VISITOR_INFO1_LIVE=ptAfg5E8s6I; SIDCC=APoG2W99IX5kuYl3DGBhZOfaLNFmva0hTD1NEFZ0AMT1x1pWONjXKajaljoyfhq8lEYad1GphpQ; __Secure-1PSIDCC=APoG2W_pfgygPs069IRfTyILcZOF_9S5eOPJpu1duowm7hS-wFIIduDIrYzRtYchdATmMr69Bg; __Secure-3PSIDCC=APoG2W_gCNRgpPLoIhNTiB3TJx82gjCiiNejHxP9dgOCQ-G-rLdAsNui8RXkZg60Zcowqgtf1Js; _ga=GA1.1.1207446393.1690688431; _gid=GA1.2.755430197.1690688431; _ga_M0180HEFCY=GS1.1.1690688431.1.0.1690688433.0.0.0; YSC=HY5Sef0oexA
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://www.youtube.com/s/search/audio/failure.mp3
+HEADERS:
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: audio/webm,audio/ogg,audio/wav,audio/*;q=0.9,application/ogg;q=0.7,video/*;q=0.6,*/*;q=0.5
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Referer: https://www.youtube.com/watch?v=IjIuDIKqzgc
+Range: bytes=0-
+Alt-Used: www.youtube.com
+Connection: keep-alive
+Cookie: SID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3_xEnLNex_J-gxbHgopyKpA.; __Secure-1PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-3PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-1PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm30jxyYmzcWQvDzStcqtH9YQ.; __Secure-3PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3-dArU1I7uGuUZrc9IiVL7Q.; HSID=A1cqb19h4TQNHaDqB; SSID=AYlT0VacCHYoYMZUp; APISID=ivRjYjK-0e2l1wZY/A8O1u5QLwduvhZSLW; SAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-1PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-3PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; PREF=f6=80&tz=America.Sao_Paulo; LOGIN_INFO=AFmmF2swRgIhAKBGR5Iw4D-iE2gJzuq9xM9ac4dkIT-_NqD6joIVidrhAiEAoJ3ScVBpUtHRM1VTThxUJEjcd3QrlusiVsOKi9AGZcA:QUQ3MjNmekdDRHkzUmJVS2JNUXoxaElnMzhqTUlHNC1SZm1MN2Q0c3FKVHZqNVozT3FQQkdIeDBPa3RpMjF1QTNvUnM0eEVDb292MVlPZGtwSVZ6emtJNGh3cFpNQVJsZnhZOVA2SS1QanRzeG1qWWVGTHZ2bDBJMXdiQkxxZFVHY01aQTUwUnRsZmVXRVZYN3NHMDV1RGUyTjg4a2VieG53; VISITOR_INFO1_LIVE=ptAfg5E8s6I; SIDCC=APoG2W99IX5kuYl3DGBhZOfaLNFmva0hTD1NEFZ0AMT1x1pWONjXKajaljoyfhq8lEYad1GphpQ; __Secure-1PSIDCC=APoG2W_pfgygPs069IRfTyILcZOF_9S5eOPJpu1duowm7hS-wFIIduDIrYzRtYchdATmMr69Bg; __Secure-3PSIDCC=APoG2W_gCNRgpPLoIhNTiB3TJx82gjCiiNejHxP9dgOCQ-G-rLdAsNui8RXkZg60Zcowqgtf1Js; _ga=GA1.1.1207446393.1690688431; _gid=GA1.2.755430197.1690688431; _ga_M0180HEFCY=GS1.1.1690688431.1.0.1690688433.0.0.0; YSC=HY5Sef0oexA
+Sec-Fetch-Dest: audio
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://www.youtube.com/s/search/audio/no_input.mp3
+HEADERS:
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: audio/webm,audio/ogg,audio/wav,audio/*;q=0.9,application/ogg;q=0.7,video/*;q=0.6,*/*;q=0.5
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Referer: https://www.youtube.com/watch?v=IjIuDIKqzgc
+Range: bytes=0-
+Alt-Used: www.youtube.com
+Connection: keep-alive
+Cookie: SID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3_xEnLNex_J-gxbHgopyKpA.; __Secure-1PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-3PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-1PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm30jxyYmzcWQvDzStcqtH9YQ.; __Secure-3PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3-dArU1I7uGuUZrc9IiVL7Q.; HSID=A1cqb19h4TQNHaDqB; SSID=AYlT0VacCHYoYMZUp; APISID=ivRjYjK-0e2l1wZY/A8O1u5QLwduvhZSLW; SAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-1PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-3PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; PREF=f6=80&tz=America.Sao_Paulo; LOGIN_INFO=AFmmF2swRgIhAKBGR5Iw4D-iE2gJzuq9xM9ac4dkIT-_NqD6joIVidrhAiEAoJ3ScVBpUtHRM1VTThxUJEjcd3QrlusiVsOKi9AGZcA:QUQ3MjNmekdDRHkzUmJVS2JNUXoxaElnMzhqTUlHNC1SZm1MN2Q0c3FKVHZqNVozT3FQQkdIeDBPa3RpMjF1QTNvUnM0eEVDb292MVlPZGtwSVZ6emtJNGh3cFpNQVJsZnhZOVA2SS1QanRzeG1qWWVGTHZ2bDBJMXdiQkxxZFVHY01aQTUwUnRsZmVXRVZYN3NHMDV1RGUyTjg4a2VieG53; VISITOR_INFO1_LIVE=ptAfg5E8s6I; SIDCC=APoG2W99IX5kuYl3DGBhZOfaLNFmva0hTD1NEFZ0AMT1x1pWONjXKajaljoyfhq8lEYad1GphpQ; __Secure-1PSIDCC=APoG2W_pfgygPs069IRfTyILcZOF_9S5eOPJpu1duowm7hS-wFIIduDIrYzRtYchdATmMr69Bg; __Secure-3PSIDCC=APoG2W_gCNRgpPLoIhNTiB3TJx82gjCiiNejHxP9dgOCQ-G-rLdAsNui8RXkZg60Zcowqgtf1Js; _ga=GA1.1.1207446393.1690688431; _gid=GA1.2.755430197.1690688431; _ga_M0180HEFCY=GS1.1.1690688431.1.0.1690688433.0.0.0; YSC=HY5Sef0oexA
+Sec-Fetch-Dest: audio
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://www.youtube.com/s/search/audio/open.mp3
+HEADERS:
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: audio/webm,audio/ogg,audio/wav,audio/*;q=0.9,application/ogg;q=0.7,video/*;q=0.6,*/*;q=0.5
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Referer: https://www.youtube.com/watch?v=IjIuDIKqzgc
+Range: bytes=0-
+Alt-Used: www.youtube.com
+Connection: keep-alive
+Cookie: SID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3_xEnLNex_J-gxbHgopyKpA.; __Secure-1PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-3PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-1PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm30jxyYmzcWQvDzStcqtH9YQ.; __Secure-3PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3-dArU1I7uGuUZrc9IiVL7Q.; HSID=A1cqb19h4TQNHaDqB; SSID=AYlT0VacCHYoYMZUp; APISID=ivRjYjK-0e2l1wZY/A8O1u5QLwduvhZSLW; SAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-1PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-3PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; PREF=f6=80&tz=America.Sao_Paulo; LOGIN_INFO=AFmmF2swRgIhAKBGR5Iw4D-iE2gJzuq9xM9ac4dkIT-_NqD6joIVidrhAiEAoJ3ScVBpUtHRM1VTThxUJEjcd3QrlusiVsOKi9AGZcA:QUQ3MjNmekdDRHkzUmJVS2JNUXoxaElnMzhqTUlHNC1SZm1MN2Q0c3FKVHZqNVozT3FQQkdIeDBPa3RpMjF1QTNvUnM0eEVDb292MVlPZGtwSVZ6emtJNGh3cFpNQVJsZnhZOVA2SS1QanRzeG1qWWVGTHZ2bDBJMXdiQkxxZFVHY01aQTUwUnRsZmVXRVZYN3NHMDV1RGUyTjg4a2VieG53; VISITOR_INFO1_LIVE=ptAfg5E8s6I; SIDCC=APoG2W99IX5kuYl3DGBhZOfaLNFmva0hTD1NEFZ0AMT1x1pWONjXKajaljoyfhq8lEYad1GphpQ; __Secure-1PSIDCC=APoG2W_pfgygPs069IRfTyILcZOF_9S5eOPJpu1duowm7hS-wFIIduDIrYzRtYchdATmMr69Bg; __Secure-3PSIDCC=APoG2W_gCNRgpPLoIhNTiB3TJx82gjCiiNejHxP9dgOCQ-G-rLdAsNui8RXkZg60Zcowqgtf1Js; _ga=GA1.1.1207446393.1690688431; _gid=GA1.2.755430197.1690688431; _ga_M0180HEFCY=GS1.1.1690688431.1.0.1690688433.0.0.0; YSC=HY5Sef0oexA
+Sec-Fetch-Dest: audio
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://www.youtube.com/s/search/audio/success.mp3
+HEADERS:
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: audio/webm,audio/ogg,audio/wav,audio/*;q=0.9,application/ogg;q=0.7,video/*;q=0.6,*/*;q=0.5
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Referer: https://www.youtube.com/watch?v=IjIuDIKqzgc
+Range: bytes=0-
+Alt-Used: www.youtube.com
+Connection: keep-alive
+Cookie: SID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3_xEnLNex_J-gxbHgopyKpA.; __Secure-1PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-3PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-1PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm30jxyYmzcWQvDzStcqtH9YQ.; __Secure-3PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3-dArU1I7uGuUZrc9IiVL7Q.; HSID=A1cqb19h4TQNHaDqB; SSID=AYlT0VacCHYoYMZUp; APISID=ivRjYjK-0e2l1wZY/A8O1u5QLwduvhZSLW; SAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-1PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-3PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; PREF=f6=80&tz=America.Sao_Paulo; LOGIN_INFO=AFmmF2swRgIhAKBGR5Iw4D-iE2gJzuq9xM9ac4dkIT-_NqD6joIVidrhAiEAoJ3ScVBpUtHRM1VTThxUJEjcd3QrlusiVsOKi9AGZcA:QUQ3MjNmekdDRHkzUmJVS2JNUXoxaElnMzhqTUlHNC1SZm1MN2Q0c3FKVHZqNVozT3FQQkdIeDBPa3RpMjF1QTNvUnM0eEVDb292MVlPZGtwSVZ6emtJNGh3cFpNQVJsZnhZOVA2SS1QanRzeG1qWWVGTHZ2bDBJMXdiQkxxZFVHY01aQTUwUnRsZmVXRVZYN3NHMDV1RGUyTjg4a2VieG53; VISITOR_INFO1_LIVE=ptAfg5E8s6I; SIDCC=APoG2W99IX5kuYl3DGBhZOfaLNFmva0hTD1NEFZ0AMT1x1pWONjXKajaljoyfhq8lEYad1GphpQ; __Secure-1PSIDCC=APoG2W_pfgygPs069IRfTyILcZOF_9S5eOPJpu1duowm7hS-wFIIduDIrYzRtYchdATmMr69Bg; __Secure-3PSIDCC=APoG2W_gCNRgpPLoIhNTiB3TJx82gjCiiNejHxP9dgOCQ-G-rLdAsNui8RXkZg60Zcowqgtf1Js; _ga=GA1.1.1207446393.1690688431; _gid=GA1.2.755430197.1690688431; _ga_M0180HEFCY=GS1.1.1690688431.1.0.1690688433.0.0.0; YSC=HY5Sef0oexA
+Sec-Fetch-Dest: audio
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://i.ytimg.com/vi_webp/IjIuDIKqzgc/maxresdefault.webp
+HEADERS:
+Host: i.ytimg.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Alt-Used: i.ytimg.com
+Connection: keep-alive
+Referer: https://www.youtube.com/
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: cross-site
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://www.youtube.com/sw.js
+HEADERS:
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Service-Worker: script
+Alt-Used: www.youtube.com
+Connection: keep-alive
+Cookie: SID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3_xEnLNex_J-gxbHgopyKpA.; __Secure-1PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-3PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-1PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm30jxyYmzcWQvDzStcqtH9YQ.; __Secure-3PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3-dArU1I7uGuUZrc9IiVL7Q.; HSID=A1cqb19h4TQNHaDqB; SSID=AYlT0VacCHYoYMZUp; APISID=ivRjYjK-0e2l1wZY/A8O1u5QLwduvhZSLW; SAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-1PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-3PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; PREF=f6=80&tz=America.Sao_Paulo; LOGIN_INFO=AFmmF2swRgIhAKBGR5Iw4D-iE2gJzuq9xM9ac4dkIT-_NqD6joIVidrhAiEAoJ3ScVBpUtHRM1VTThxUJEjcd3QrlusiVsOKi9AGZcA:QUQ3MjNmekdDRHkzUmJVS2JNUXoxaElnMzhqTUlHNC1SZm1MN2Q0c3FKVHZqNVozT3FQQkdIeDBPa3RpMjF1QTNvUnM0eEVDb292MVlPZGtwSVZ6emtJNGh3cFpNQVJsZnhZOVA2SS1QanRzeG1qWWVGTHZ2bDBJMXdiQkxxZFVHY01aQTUwUnRsZmVXRVZYN3NHMDV1RGUyTjg4a2VieG53; VISITOR_INFO1_LIVE=ptAfg5E8s6I; SIDCC=APoG2W99IX5kuYl3DGBhZOfaLNFmva0hTD1NEFZ0AMT1x1pWONjXKajaljoyfhq8lEYad1GphpQ; __Secure-1PSIDCC=APoG2W_pfgygPs069IRfTyILcZOF_9S5eOPJpu1duowm7hS-wFIIduDIrYzRtYchdATmMr69Bg; __Secure-3PSIDCC=APoG2W_gCNRgpPLoIhNTiB3TJx82gjCiiNejHxP9dgOCQ-G-rLdAsNui8RXkZg60Zcowqgtf1Js; _ga=GA1.1.1207446393.1690688431; _gid=GA1.2.755430197.1690688431; _ga_M0180HEFCY=GS1.1.1690688431.1.0.1690688433.0.0.0; YSC=HY5Sef0oexA
+Sec-Fetch-Dest: serviceworker
+Sec-Fetch-Mode: same-origin
+Sec-Fetch-Site: same-origin
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://www.youtube.com/s/desktop/51e20ad6/jsbin/serviceworker-notifications.vflset/serviceworker-notifications.js
+HEADERS:
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Service-Worker: script
+Alt-Used: www.youtube.com
+Connection: keep-alive
+Cookie: SID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3_xEnLNex_J-gxbHgopyKpA.; __Secure-1PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-3PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-1PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm30jxyYmzcWQvDzStcqtH9YQ.; __Secure-3PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3-dArU1I7uGuUZrc9IiVL7Q.; HSID=A1cqb19h4TQNHaDqB; SSID=AYlT0VacCHYoYMZUp; APISID=ivRjYjK-0e2l1wZY/A8O1u5QLwduvhZSLW; SAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-1PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-3PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; PREF=f6=80&tz=America.Sao_Paulo; LOGIN_INFO=AFmmF2swRgIhAKBGR5Iw4D-iE2gJzuq9xM9ac4dkIT-_NqD6joIVidrhAiEAoJ3ScVBpUtHRM1VTThxUJEjcd3QrlusiVsOKi9AGZcA:QUQ3MjNmekdDRHkzUmJVS2JNUXoxaElnMzhqTUlHNC1SZm1MN2Q0c3FKVHZqNVozT3FQQkdIeDBPa3RpMjF1QTNvUnM0eEVDb292MVlPZGtwSVZ6emtJNGh3cFpNQVJsZnhZOVA2SS1QanRzeG1qWWVGTHZ2bDBJMXdiQkxxZFVHY01aQTUwUnRsZmVXRVZYN3NHMDV1RGUyTjg4a2VieG53; VISITOR_INFO1_LIVE=ptAfg5E8s6I; SIDCC=APoG2W99IX5kuYl3DGBhZOfaLNFmva0hTD1NEFZ0AMT1x1pWONjXKajaljoyfhq8lEYad1GphpQ; __Secure-1PSIDCC=APoG2W_pfgygPs069IRfTyILcZOF_9S5eOPJpu1duowm7hS-wFIIduDIrYzRtYchdATmMr69Bg; __Secure-3PSIDCC=APoG2W_gCNRgpPLoIhNTiB3TJx82gjCiiNejHxP9dgOCQ-G-rLdAsNui8RXkZg60Zcowqgtf1Js; _ga=GA1.1.1207446393.1690688431; _gid=GA1.2.755430197.1690688431; _ga_M0180HEFCY=GS1.1.1690688431.1.0.1690688433.0.0.0; YSC=HY5Sef0oexA
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://www.youtube.com/s/desktop/83a619e0/jsbin/serviceworker-notifications.vflset/serviceworker-notifications.js
+HEADERS:
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Service-Worker: script
+Alt-Used: www.youtube.com
+Connection: keep-alive
+Cookie: SID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3_xEnLNex_J-gxbHgopyKpA.; __Secure-1PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-3PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-1PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm30jxyYmzcWQvDzStcqtH9YQ.; __Secure-3PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3-dArU1I7uGuUZrc9IiVL7Q.; HSID=A1cqb19h4TQNHaDqB; SSID=AYlT0VacCHYoYMZUp; APISID=ivRjYjK-0e2l1wZY/A8O1u5QLwduvhZSLW; SAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-1PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-3PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; PREF=f6=80&tz=America.Sao_Paulo; LOGIN_INFO=AFmmF2swRgIhAKBGR5Iw4D-iE2gJzuq9xM9ac4dkIT-_NqD6joIVidrhAiEAoJ3ScVBpUtHRM1VTThxUJEjcd3QrlusiVsOKi9AGZcA:QUQ3MjNmekdDRHkzUmJVS2JNUXoxaElnMzhqTUlHNC1SZm1MN2Q0c3FKVHZqNVozT3FQQkdIeDBPa3RpMjF1QTNvUnM0eEVDb292MVlPZGtwSVZ6emtJNGh3cFpNQVJsZnhZOVA2SS1QanRzeG1qWWVGTHZ2bDBJMXdiQkxxZFVHY01aQTUwUnRsZmVXRVZYN3NHMDV1RGUyTjg4a2VieG53; VISITOR_INFO1_LIVE=ptAfg5E8s6I; SIDCC=APoG2W99IX5kuYl3DGBhZOfaLNFmva0hTD1NEFZ0AMT1x1pWONjXKajaljoyfhq8lEYad1GphpQ; __Secure-1PSIDCC=APoG2W_pfgygPs069IRfTyILcZOF_9S5eOPJpu1duowm7hS-wFIIduDIrYzRtYchdATmMr69Bg; __Secure-3PSIDCC=APoG2W_gCNRgpPLoIhNTiB3TJx82gjCiiNejHxP9dgOCQ-G-rLdAsNui8RXkZg60Zcowqgtf1Js; _ga=GA1.1.1207446393.1690688431; _gid=GA1.2.755430197.1690688431; _ga_M0180HEFCY=GS1.1.1690688431.1.0.1690688433.0.0.0; YSC=HY5Sef0oexA
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://googleads.g.doubleclick.net/pagead/id
+HEADERS:
+Host: googleads.g.doubleclick.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Origin: https://www.youtube.com
+Alt-Used: googleads.g.doubleclick.net
+Connection: keep-alive
+Referer: https://www.youtube.com/
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://googleads.g.doubleclick.net/pagead/id?slf_rd=1
+HEADERS:
+Host: googleads.g.doubleclick.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Origin: https://www.youtube.com
+Alt-Used: googleads.g.doubleclick.net
+Connection: keep-alive
+Referer: https://www.youtube.com/
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://www.youtube.com/sw.js
+HEADERS:
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Service-Worker: script
+Alt-Used: www.youtube.com
+Connection: keep-alive
+Cookie: SID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3_xEnLNex_J-gxbHgopyKpA.; __Secure-1PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-3PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-1PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm30jxyYmzcWQvDzStcqtH9YQ.; __Secure-3PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3-dArU1I7uGuUZrc9IiVL7Q.; HSID=A1cqb19h4TQNHaDqB; SSID=AYlT0VacCHYoYMZUp; APISID=ivRjYjK-0e2l1wZY/A8O1u5QLwduvhZSLW; SAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-1PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-3PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; PREF=f6=80&tz=America.Sao_Paulo; LOGIN_INFO=AFmmF2swRgIhAKBGR5Iw4D-iE2gJzuq9xM9ac4dkIT-_NqD6joIVidrhAiEAoJ3ScVBpUtHRM1VTThxUJEjcd3QrlusiVsOKi9AGZcA:QUQ3MjNmekdDRHkzUmJVS2JNUXoxaElnMzhqTUlHNC1SZm1MN2Q0c3FKVHZqNVozT3FQQkdIeDBPa3RpMjF1QTNvUnM0eEVDb292MVlPZGtwSVZ6emtJNGh3cFpNQVJsZnhZOVA2SS1QanRzeG1qWWVGTHZ2bDBJMXdiQkxxZFVHY01aQTUwUnRsZmVXRVZYN3NHMDV1RGUyTjg4a2VieG53; VISITOR_INFO1_LIVE=ptAfg5E8s6I; SIDCC=APoG2W8DIu4WhfDUAiQ33jeWxQjFUTKY-GZHT5qGOH9bcYenlNjG-6AfjxjDbbdOfCQURnPze3s; __Secure-1PSIDCC=APoG2W8H9K9bXz8o9CXNuKzRdbuMj0Te3NfqgvYu36NNwtYaFdVRE57qD0OgwDhluEp8YRuvRQ; __Secure-3PSIDCC=APoG2W_hm8KRq3jMtFFx1yU4uPrkifIxFrtHcAGKVkHR2aJ-mKbhLxk54hsBpAoX7kCfPY6UDRg; _ga=GA1.1.1207446393.1690688431; _gid=GA1.2.755430197.1690688431; _ga_M0180HEFCY=GS1.1.1690688431.1.0.1690688433.0.0.0; YSC=HY5Sef0oexA
+Sec-Fetch-Dest: serviceworker
+Sec-Fetch-Mode: same-origin
+Sec-Fetch-Site: same-origin
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://www.youtube.com/s/desktop/51e20ad6/jsbin/serviceworker-notifications.vflset/serviceworker-notifications.js
+HEADERS:
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Service-Worker: script
+Alt-Used: www.youtube.com
+Connection: keep-alive
+Cookie: SID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3_xEnLNex_J-gxbHgopyKpA.; __Secure-1PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-3PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-1PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm30jxyYmzcWQvDzStcqtH9YQ.; __Secure-3PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3-dArU1I7uGuUZrc9IiVL7Q.; HSID=A1cqb19h4TQNHaDqB; SSID=AYlT0VacCHYoYMZUp; APISID=ivRjYjK-0e2l1wZY/A8O1u5QLwduvhZSLW; SAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-1PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-3PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; PREF=f6=80&tz=America.Sao_Paulo; LOGIN_INFO=AFmmF2swRgIhAKBGR5Iw4D-iE2gJzuq9xM9ac4dkIT-_NqD6joIVidrhAiEAoJ3ScVBpUtHRM1VTThxUJEjcd3QrlusiVsOKi9AGZcA:QUQ3MjNmekdDRHkzUmJVS2JNUXoxaElnMzhqTUlHNC1SZm1MN2Q0c3FKVHZqNVozT3FQQkdIeDBPa3RpMjF1QTNvUnM0eEVDb292MVlPZGtwSVZ6emtJNGh3cFpNQVJsZnhZOVA2SS1QanRzeG1qWWVGTHZ2bDBJMXdiQkxxZFVHY01aQTUwUnRsZmVXRVZYN3NHMDV1RGUyTjg4a2VieG53; VISITOR_INFO1_LIVE=ptAfg5E8s6I; SIDCC=APoG2W8DIu4WhfDUAiQ33jeWxQjFUTKY-GZHT5qGOH9bcYenlNjG-6AfjxjDbbdOfCQURnPze3s; __Secure-1PSIDCC=APoG2W8H9K9bXz8o9CXNuKzRdbuMj0Te3NfqgvYu36NNwtYaFdVRE57qD0OgwDhluEp8YRuvRQ; __Secure-3PSIDCC=APoG2W_hm8KRq3jMtFFx1yU4uPrkifIxFrtHcAGKVkHR2aJ-mKbhLxk54hsBpAoX7kCfPY6UDRg; _ga=GA1.1.1207446393.1690688431; _gid=GA1.2.755430197.1690688431; _ga_M0180HEFCY=GS1.1.1690688431.1.0.1690688433.0.0.0; YSC=HY5Sef0oexA
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://www.youtube.com/s/desktop/83a619e0/jsbin/serviceworker-notifications.vflset/serviceworker-notifications.js
+HEADERS:
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Service-Worker: script
+Alt-Used: www.youtube.com
+Connection: keep-alive
+Cookie: SID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3_xEnLNex_J-gxbHgopyKpA.; __Secure-1PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-3PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-1PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm30jxyYmzcWQvDzStcqtH9YQ.; __Secure-3PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3-dArU1I7uGuUZrc9IiVL7Q.; HSID=A1cqb19h4TQNHaDqB; SSID=AYlT0VacCHYoYMZUp; APISID=ivRjYjK-0e2l1wZY/A8O1u5QLwduvhZSLW; SAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-1PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-3PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; PREF=f6=80&tz=America.Sao_Paulo; LOGIN_INFO=AFmmF2swRgIhAKBGR5Iw4D-iE2gJzuq9xM9ac4dkIT-_NqD6joIVidrhAiEAoJ3ScVBpUtHRM1VTThxUJEjcd3QrlusiVsOKi9AGZcA:QUQ3MjNmekdDRHkzUmJVS2JNUXoxaElnMzhqTUlHNC1SZm1MN2Q0c3FKVHZqNVozT3FQQkdIeDBPa3RpMjF1QTNvUnM0eEVDb292MVlPZGtwSVZ6emtJNGh3cFpNQVJsZnhZOVA2SS1QanRzeG1qWWVGTHZ2bDBJMXdiQkxxZFVHY01aQTUwUnRsZmVXRVZYN3NHMDV1RGUyTjg4a2VieG53; VISITOR_INFO1_LIVE=ptAfg5E8s6I; SIDCC=APoG2W8DIu4WhfDUAiQ33jeWxQjFUTKY-GZHT5qGOH9bcYenlNjG-6AfjxjDbbdOfCQURnPze3s; __Secure-1PSIDCC=APoG2W8H9K9bXz8o9CXNuKzRdbuMj0Te3NfqgvYu36NNwtYaFdVRE57qD0OgwDhluEp8YRuvRQ; __Secure-3PSIDCC=APoG2W_hm8KRq3jMtFFx1yU4uPrkifIxFrtHcAGKVkHR2aJ-mKbhLxk54hsBpAoX7kCfPY6UDRg; _ga=GA1.1.1207446393.1690688431; _gid=GA1.2.755430197.1690688431; _ga_M0180HEFCY=GS1.1.1690688431.1.0.1690688433.0.0.0; YSC=HY5Sef0oexA
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+POST: https://www.youtube.com/api/stats/atr?ns=yt&el=detailpage&cpn=Ss0IuYyJd77QkuHV&ver=2&cmt=0&fmt=137&fs=0&rt=87.189&euri&lact=58451&cl=551026372&mos=0&volume=100&cbr=Firefox&cbrver=102.0&c=WEB&cver=2.20230728.00.00&cplayer=UNIPLAYER&cos=X11&cplatform=DESKTOP&hl=pt_BR&cr=BR&uga=m21&len=301.281&fexp=23983296%2C23986027%2C23998837%2C24004644%2C24007246%2C24080738%2C24135310%2C24362619%2C24366065%2C24371398%2C24373977%2C24380264%2C24415864%2C24416291%2C24437577%2C24439361%2C24471201%2C24504433%2C24522523%2C24525413%2C24528734%2C24528992%2C24540282%2C24543709%2C24550458%2C24550951%2C24554039%2C24559327%2C24699899%2C51000013%2C51000316&afmt=251&muted=0&docid=IjIuDIKqzgc&ei=1iXHZJyADI21wgTjpZHgCg&plid=AAYBv8EYvc5-3yE1&of=dJe-SeprCCfeYOd4jx6bXg&osid=AAAAAKkd2C8%3AAOeUNAY4PZCsyRhpJEeGdd-1u0ghGZmi0A&vm=CAEQARgEOjJBRmtzQzRvYkVydXFiWVlkOTRia2ZZaWN1anRVZkdaUzNwUUczUmNLcXpDazFmZHR2d2JTQVBta0tETGpldm1DTkRoRU1Ta0d5N3dmOGp1NmNPREpGdXVKUG5kVExuZlpia05YSzlaYkJqUHM4UU12NlNlcVhKVDdwWEg2Y0toTjdqUVpEYW9oAQ
+HEADERS:
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/watch?v=IjIuDIKqzgc
+X-Goog-Visitor-Id: CgtwdEFmZzVFOHM2SSjWy5ymBg%3D%3D
+X-Goog-AuthUser: 0
+X-Yt-Auth-Test: test
+X-Goog-Request-Time: 1690773037725
+X-YouTube-Client-Name: 1
+X-YouTube-Client-Version: 2.20230728.00.00
+X-YouTube-Device: cbr=Firefox&cbrver=102.0&ceng=Gecko&cengver=102.0&cos=X11&cplatform=DESKTOP
+X-Youtube-Identity-Token: QUFFLUhqa2Y0WE8zZkpodlREUGd1LTh0V01ORmc4QXZNQXw=
+X-YouTube-Page-CL: 551741488
+X-YouTube-Page-Label: youtube.desktop.web_20230728_00_RC00
+X-YouTube-Utc-Offset: -180
+X-YouTube-Time-Zone: America/Sao_Paulo
+X-YouTube-Ad-Signals: dt=1690772950694&flash=0&frm&u_tz=-180&u_his=2&u_h=1080&u_w=1920&u_ah=1048&u_aw=1920&u_cd=24&bc=31&bih=858&biw=830&brdim=-26%2C9%2C-26%2C9%2C1920%2C32%2C830%2C943%2C830%2C858&vis=1&wgl=true&ca_type=image
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 1859
+Origin: https://www.youtube.com
+Alt-Used: www.youtube.com
+Connection: keep-alive
+Cookie: SID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3_xEnLNex_J-gxbHgopyKpA.; __Secure-1PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-3PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-1PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm30jxyYmzcWQvDzStcqtH9YQ.; __Secure-3PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3-dArU1I7uGuUZrc9IiVL7Q.; HSID=A1cqb19h4TQNHaDqB; SSID=AYlT0VacCHYoYMZUp; APISID=ivRjYjK-0e2l1wZY/A8O1u5QLwduvhZSLW; SAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-1PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-3PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; PREF=f6=80&tz=America.Sao_Paulo; LOGIN_INFO=AFmmF2swRgIhAKBGR5Iw4D-iE2gJzuq9xM9ac4dkIT-_NqD6joIVidrhAiEAoJ3ScVBpUtHRM1VTThxUJEjcd3QrlusiVsOKi9AGZcA:QUQ3MjNmekdDRHkzUmJVS2JNUXoxaElnMzhqTUlHNC1SZm1MN2Q0c3FKVHZqNVozT3FQQkdIeDBPa3RpMjF1QTNvUnM0eEVDb292MVlPZGtwSVZ6emtJNGh3cFpNQVJsZnhZOVA2SS1QanRzeG1qWWVGTHZ2bDBJMXdiQkxxZFVHY01aQTUwUnRsZmVXRVZYN3NHMDV1RGUyTjg4a2VieG53; VISITOR_INFO1_LIVE=ptAfg5E8s6I; SIDCC=APoG2W-wGvbifE8qN-Jiz8KsRsMVQF4qDMhA7DB6-6ZnQrw40g8OUGIVwWr8TjzwQwtZZQ2gq-4; __Secure-1PSIDCC=APoG2W_WlcBLCikM1_AnsDXgzBm-Hu3Jn4hDXHXSFALzMMPPMgyjkY-kN042INbS_BhTlaB9SQ; __Secure-3PSIDCC=APoG2W8rhCY_pNG1GaRQqe22bYRyMSCQ7-M8s-9oIw9B91QV1iisN5njzJmdeE5uYpbh41ywvRQ; _ga=GA1.1.1207446393.1690688431; _gid=GA1.2.755430197.1690688431; _ga_M0180HEFCY=GS1.1.1690688431.1.0.1690688433.0.0.0; YSC=HY5Sef0oexA
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+POST: https://www.youtube.com/api/stats/qoe?fmt=137&afmt=251&cpn=Ss0IuYyJd77QkuHV&el=detailpage&ns=yt&fexp=23983296%2C23986027%2C23998837%2C24004644%2C24007246%2C24080738%2C24135310%2C24362619%2C24366065%2C24371398%2C24373977%2C24380264%2C24415864%2C24416291%2C24437577%2C24439361%2C24471201%2C24504433%2C24522523%2C24525413%2C24528734%2C24528992%2C24540282%2C24543709%2C24550458%2C24550951%2C24554039%2C24559327%2C24699899%2C51000013%2C51000316&cl=551026372&seq=3&docid=IjIuDIKqzgc&ei=1iXHZJyADI21wgTjpZHgCg&event=streamingstats&osid=AAAAAKkd2C8%3AAOeUNAY4PZCsyRhpJEeGdd-1u0ghGZmi0A&plid=AAYBv8EYvc5-3yE1&qclc=ChBTczBJdVl5SmQ3N1FrdUhWEAM&embargoed=0&cbr=Firefox&cbrver=102.0&c=WEB&cver=2.20230728.00.00&cplayer=UNIPLAYER&cos=X11&cplatform=DESKTOP&vps=87.198:N&user_intent=22.58&bwm=87.198:4042477:0.219&bwe=87.198:14210026&vis=87.198:0&cmt=87.198:0.000&bh=87.198:80.000
+HEADERS:
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/watch?v=IjIuDIKqzgc
+X-Goog-Visitor-Id: CgtwdEFmZzVFOHM2SSjWy5ymBg%3D%3D
+X-Goog-AuthUser: 0
+X-Yt-Auth-Test: test
+X-YouTube-Client-Name: 1
+X-YouTube-Client-Version: 2.20230728.00.00
+X-YouTube-Device: cbr=Firefox&cbrver=102.0&ceng=Gecko&cengver=102.0&cos=X11&cplatform=DESKTOP
+X-Youtube-Identity-Token: QUFFLUhqa2Y0WE8zZkpodlREUGd1LTh0V01ORmc4QXZNQXw=
+X-YouTube-Page-CL: 551741488
+X-YouTube-Page-Label: youtube.desktop.web_20230728_00_RC00
+X-YouTube-Utc-Offset: -180
+X-YouTube-Time-Zone: America/Sao_Paulo
+X-YouTube-Ad-Signals: dt=1690772950480&flash=0&frm&u_tz=-180&u_his=2&u_h=1080&u_w=1920&u_ah=1048&u_aw=1920&u_cd=24&bc=31&bih=858&biw=830&brdim=-26%2C9%2C-26%2C9%2C1920%2C32%2C830%2C943%2C830%2C858&vis=1&wgl=true&ca_type=image
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 226
+Origin: https://www.youtube.com
+Alt-Used: www.youtube.com
+Connection: keep-alive
+Cookie: SID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3_xEnLNex_J-gxbHgopyKpA.; __Secure-1PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-3PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-1PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm30jxyYmzcWQvDzStcqtH9YQ.; __Secure-3PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3-dArU1I7uGuUZrc9IiVL7Q.; HSID=A1cqb19h4TQNHaDqB; SSID=AYlT0VacCHYoYMZUp; APISID=ivRjYjK-0e2l1wZY/A8O1u5QLwduvhZSLW; SAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-1PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-3PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; PREF=f6=80&tz=America.Sao_Paulo; LOGIN_INFO=AFmmF2swRgIhAKBGR5Iw4D-iE2gJzuq9xM9ac4dkIT-_NqD6joIVidrhAiEAoJ3ScVBpUtHRM1VTThxUJEjcd3QrlusiVsOKi9AGZcA:QUQ3MjNmekdDRHkzUmJVS2JNUXoxaElnMzhqTUlHNC1SZm1MN2Q0c3FKVHZqNVozT3FQQkdIeDBPa3RpMjF1QTNvUnM0eEVDb292MVlPZGtwSVZ6emtJNGh3cFpNQVJsZnhZOVA2SS1QanRzeG1qWWVGTHZ2bDBJMXdiQkxxZFVHY01aQTUwUnRsZmVXRVZYN3NHMDV1RGUyTjg4a2VieG53; VISITOR_INFO1_LIVE=ptAfg5E8s6I; SIDCC=APoG2W-wGvbifE8qN-Jiz8KsRsMVQF4qDMhA7DB6-6ZnQrw40g8OUGIVwWr8TjzwQwtZZQ2gq-4; __Secure-1PSIDCC=APoG2W_WlcBLCikM1_AnsDXgzBm-Hu3Jn4hDXHXSFALzMMPPMgyjkY-kN042INbS_BhTlaB9SQ; __Secure-3PSIDCC=APoG2W8rhCY_pNG1GaRQqe22bYRyMSCQ7-M8s-9oIw9B91QV1iisN5njzJmdeE5uYpbh41ywvRQ; _ga=GA1.1.1207446393.1690688431; _gid=GA1.2.755430197.1690688431; _ga_M0180HEFCY=GS1.1.1690688431.1.0.1690688433.0.0.0; YSC=HY5Sef0oexA
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+POST: https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+HEADERS:
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/watch?v=IjIuDIKqzgc
+X-Goog-Request-Time: 1690773043620
+Content-Type: application/json
+X-Goog-Visitor-Id: CgtwdEFmZzVFOHM2SSitzJymBg%3D%3D
+Authorization: SAPISIDHASH 1690773037_f2831c548597ff8befb1169e6375e893428c12df
+X-Goog-AuthUser: 0
+X-Origin: https://www.youtube.com
+Content-Encoding: gzip
+X-YouTube-Client-Name: 1
+X-YouTube-Client-Version: 2.20230728.00.00
+X-YouTube-Device: cbr=Firefox&cbrver=102.0&ceng=Gecko&cengver=102.0&cos=X11&cplatform=DESKTOP
+X-Youtube-Identity-Token: QUFFLUhqa2Y0WE8zZkpodlREUGd1LTh0V01ORmc4QXZNQXw=
+X-YouTube-Page-CL: 551741488
+X-YouTube-Page-Label: youtube.desktop.web_20230728_00_RC00
+X-Yt-Auth-Test: test
+X-YouTube-Utc-Offset: -180
+X-YouTube-Time-Zone: America/Sao_Paulo
+X-YouTube-Ad-Signals: dt=1690773038586&flash=0&frm&u_tz=-180&u_his=2&u_h=1080&u_w=1920&u_ah=1048&u_aw=1920&u_cd=24&bc=31&bih=858&biw=830&brdim=-26%2C9%2C-26%2C9%2C1920%2C32%2C830%2C943%2C830%2C858&vis=2&wgl=true&ca_type=image
+Content-Length: 8997
+Origin: https://www.youtube.com
+Alt-Used: www.youtube.com
+Connection: keep-alive
+Cookie: SID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3_xEnLNex_J-gxbHgopyKpA.; __Secure-1PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-3PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-1PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm30jxyYmzcWQvDzStcqtH9YQ.; __Secure-3PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3-dArU1I7uGuUZrc9IiVL7Q.; HSID=A1cqb19h4TQNHaDqB; SSID=AYlT0VacCHYoYMZUp; APISID=ivRjYjK-0e2l1wZY/A8O1u5QLwduvhZSLW; SAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-1PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-3PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; PREF=f6=80&tz=America.Sao_Paulo; LOGIN_INFO=AFmmF2swRgIhAKBGR5Iw4D-iE2gJzuq9xM9ac4dkIT-_NqD6joIVidrhAiEAoJ3ScVBpUtHRM1VTThxUJEjcd3QrlusiVsOKi9AGZcA:QUQ3MjNmekdDRHkzUmJVS2JNUXoxaElnMzhqTUlHNC1SZm1MN2Q0c3FKVHZqNVozT3FQQkdIeDBPa3RpMjF1QTNvUnM0eEVDb292MVlPZGtwSVZ6emtJNGh3cFpNQVJsZnhZOVA2SS1QanRzeG1qWWVGTHZ2bDBJMXdiQkxxZFVHY01aQTUwUnRsZmVXRVZYN3NHMDV1RGUyTjg4a2VieG53; VISITOR_INFO1_LIVE=ptAfg5E8s6I; SIDCC=APoG2W9DgwlO0ysSM0TBARVxApVnnUUBeiMtQDC6yN7n-e1VzTkhoArQ1UQdpA-ASKt54DrW2hs; __Secure-1PSIDCC=APoG2W_6P4L1erdykV1K2gDGFPSBnHGGJRIIiblUgkEjqm1piIYxohrsm4BjsDzwJqTX7jwheQ; __Secure-3PSIDCC=APoG2W-XAjq03vRk9DRJO1XIWRVU1SzcAN-BukXxs2FX5oQXm3hVlAecB0tEWdP6V3ENId394YU; _ga=GA1.1.1207446393.1690688431; _gid=GA1.2.755430197.1690688431; _ga_M0180HEFCY=GS1.1.1690688431.1.0.1690688433.0.0.0; YSC=HY5Sef0oexA
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+POST: https://www.youtube.com/api/stats/atr?ns=yt&el=detailpage&cpn=Ss0IuYyJd77QkuHV&ver=2&cmt=0&fmt=137&fs=0&rt=87.189&euri&lact=58451&cl=551026372&mos=0&volume=100&cbr=Firefox&cbrver=102.0&c=WEB&cver=2.20230728.00.00&cplayer=UNIPLAYER&cos=X11&cplatform=DESKTOP&hl=pt_BR&cr=BR&uga=m21&len=301.281&fexp=23983296%2C23986027%2C23998837%2C24004644%2C24007246%2C24080738%2C24135310%2C24362619%2C24366065%2C24371398%2C24373977%2C24380264%2C24415864%2C24416291%2C24437577%2C24439361%2C24471201%2C24504433%2C24522523%2C24525413%2C24528734%2C24528992%2C24540282%2C24543709%2C24550458%2C24550951%2C24554039%2C24559327%2C24699899%2C51000013%2C51000316&afmt=251&muted=0&docid=IjIuDIKqzgc&ei=1iXHZJyADI21wgTjpZHgCg&plid=AAYBv8EYvc5-3yE1&of=dJe-SeprCCfeYOd4jx6bXg&osid=AAAAAKkd2C8%3AAOeUNAY4PZCsyRhpJEeGdd-1u0ghGZmi0A&vm=CAEQARgEOjJBRmtzQzRvYkVydXFiWVlkOTRia2ZZaWN1anRVZkdaUzNwUUczUmNLcXpDazFmZHR2d2JTQVBta0tETGpldm1DTkRoRU1Ta0d5N3dmOGp1NmNPREpGdXVKUG5kVExuZlpia05YSzlaYkJqUHM4UU12NlNlcVhKVDdwWEg2Y0toTjdqUVpEYW9oAQ
+HEADERS:
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/watch?v=IjIuDIKqzgc
+X-Goog-Visitor-Id: CgtwdEFmZzVFOHM2SSitzJymBg%3D%3D
+X-Goog-AuthUser: 0
+X-Yt-Auth-Test: test
+X-Goog-Request-Time: 1690773045615
+X-YouTube-Client-Name: 1
+X-YouTube-Client-Version: 2.20230728.00.00
+X-YouTube-Device: cbr=Firefox&cbrver=102.0&ceng=Gecko&cengver=102.0&cos=X11&cplatform=DESKTOP
+X-Youtube-Identity-Token: QUFFLUhqa2Y0WE8zZkpodlREUGd1LTh0V01ORmc4QXZNQXw=
+X-YouTube-Page-CL: 551741488
+X-YouTube-Page-Label: youtube.desktop.web_20230728_00_RC00
+X-YouTube-Utc-Offset: -180
+X-YouTube-Time-Zone: America/Sao_Paulo
+X-YouTube-Ad-Signals: dt=1690773038586&flash=0&frm&u_tz=-180&u_his=2&u_h=1080&u_w=1920&u_ah=1048&u_aw=1920&u_cd=24&bc=31&bih=858&biw=830&brdim=-26%2C9%2C-26%2C9%2C1920%2C32%2C830%2C943%2C830%2C858&vis=2&wgl=true&ca_type=image
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 1859
+Origin: https://www.youtube.com
+Alt-Used: www.youtube.com
+Connection: keep-alive
+Cookie: SID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3_xEnLNex_J-gxbHgopyKpA.; __Secure-1PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-3PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-1PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm30jxyYmzcWQvDzStcqtH9YQ.; __Secure-3PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3-dArU1I7uGuUZrc9IiVL7Q.; HSID=A1cqb19h4TQNHaDqB; SSID=AYlT0VacCHYoYMZUp; APISID=ivRjYjK-0e2l1wZY/A8O1u5QLwduvhZSLW; SAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-1PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-3PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; PREF=f6=80&tz=America.Sao_Paulo; LOGIN_INFO=AFmmF2swRgIhAKBGR5Iw4D-iE2gJzuq9xM9ac4dkIT-_NqD6joIVidrhAiEAoJ3ScVBpUtHRM1VTThxUJEjcd3QrlusiVsOKi9AGZcA:QUQ3MjNmekdDRHkzUmJVS2JNUXoxaElnMzhqTUlHNC1SZm1MN2Q0c3FKVHZqNVozT3FQQkdIeDBPa3RpMjF1QTNvUnM0eEVDb292MVlPZGtwSVZ6emtJNGh3cFpNQVJsZnhZOVA2SS1QanRzeG1qWWVGTHZ2bDBJMXdiQkxxZFVHY01aQTUwUnRsZmVXRVZYN3NHMDV1RGUyTjg4a2VieG53; VISITOR_INFO1_LIVE=ptAfg5E8s6I; SIDCC=APoG2W992ZXBchp_xiykfxlhUxrR8F2x947dYBeLncICFViHQmQoM8xodqrw8N7RODCd_qONNMM; __Secure-1PSIDCC=APoG2W-Qbfk7cnpA0cLWhyx5Rev8Cy16ZMm_Mdm7F6CwGQG9I2EC9Ht-MxF4EV-PPkyfpC4QYA; __Secure-3PSIDCC=APoG2W_dDdWlhh7agbAzEJWRvjrTjarfrFomSpn8RMBFBuONurQ3ThHQTFTDU2MYdtq0AwH7pV0; _ga=GA1.1.1207446393.1690688431; _gid=GA1.2.755430197.1690688431; _ga_M0180HEFCY=GS1.1.1690688431.1.0.1690688433.0.0.0; YSC=HY5Sef0oexA
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+POST: https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+HEADERS:
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/watch?v=IjIuDIKqzgc
+X-Goog-Request-Time: 1690773047637
+Content-Type: application/json
+X-Goog-Visitor-Id: CgtwdEFmZzVFOHM2SSitzJymBg%3D%3D
+Authorization: SAPISIDHASH 1690772899_9601eae2fea431ca3a95b3f56e9a5aa798afe417
+X-Goog-AuthUser: 0
+X-Origin: https://www.youtube.com
+Content-Encoding: gzip
+X-YouTube-Client-Name: 1
+X-YouTube-Client-Version: 2.20230728.00.00
+X-YouTube-Device: cbr=Firefox&cbrver=102.0&ceng=Gecko&cengver=102.0&cos=X11&cplatform=DESKTOP
+X-Youtube-Identity-Token: QUFFLUhqa2Y0WE8zZkpodlREUGd1LTh0V01ORmc4QXZNQXw=
+X-YouTube-Page-CL: 551741488
+X-YouTube-Page-Label: youtube.desktop.web_20230728_00_RC00
+X-Yt-Auth-Test: test
+X-YouTube-Utc-Offset: -180
+X-YouTube-Time-Zone: America/Sao_Paulo
+X-YouTube-Ad-Signals: dt=1690773038586&flash=0&frm&u_tz=-180&u_his=2&u_h=1080&u_w=1920&u_ah=1048&u_aw=1920&u_cd=24&bc=31&bih=858&biw=830&brdim=-26%2C9%2C-26%2C9%2C1920%2C32%2C830%2C943%2C830%2C858&vis=2&wgl=true&ca_type=image
+Content-Length: 9951
+Origin: https://www.youtube.com
+Alt-Used: www.youtube.com
+Connection: keep-alive
+Cookie: SID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3_xEnLNex_J-gxbHgopyKpA.; __Secure-1PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-3PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-1PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm30jxyYmzcWQvDzStcqtH9YQ.; __Secure-3PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3-dArU1I7uGuUZrc9IiVL7Q.; HSID=A1cqb19h4TQNHaDqB; SSID=AYlT0VacCHYoYMZUp; APISID=ivRjYjK-0e2l1wZY/A8O1u5QLwduvhZSLW; SAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-1PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-3PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; PREF=f6=80&tz=America.Sao_Paulo; LOGIN_INFO=AFmmF2swRgIhAKBGR5Iw4D-iE2gJzuq9xM9ac4dkIT-_NqD6joIVidrhAiEAoJ3ScVBpUtHRM1VTThxUJEjcd3QrlusiVsOKi9AGZcA:QUQ3MjNmekdDRHkzUmJVS2JNUXoxaElnMzhqTUlHNC1SZm1MN2Q0c3FKVHZqNVozT3FQQkdIeDBPa3RpMjF1QTNvUnM0eEVDb292MVlPZGtwSVZ6emtJNGh3cFpNQVJsZnhZOVA2SS1QanRzeG1qWWVGTHZ2bDBJMXdiQkxxZFVHY01aQTUwUnRsZmVXRVZYN3NHMDV1RGUyTjg4a2VieG53; VISITOR_INFO1_LIVE=ptAfg5E8s6I; SIDCC=APoG2W992ZXBchp_xiykfxlhUxrR8F2x947dYBeLncICFViHQmQoM8xodqrw8N7RODCd_qONNMM; __Secure-1PSIDCC=APoG2W-Qbfk7cnpA0cLWhyx5Rev8Cy16ZMm_Mdm7F6CwGQG9I2EC9Ht-MxF4EV-PPkyfpC4QYA; __Secure-3PSIDCC=APoG2W_dDdWlhh7agbAzEJWRvjrTjarfrFomSpn8RMBFBuONurQ3ThHQTFTDU2MYdtq0AwH7pV0; _ga=GA1.1.1207446393.1690688431; _gid=GA1.2.755430197.1690688431; _ga_M0180HEFCY=GS1.1.1690688431.1.0.1690688433.0.0.0; YSC=HY5Sef0oexA
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+POST: https://www.youtube.com/api/stats/qoe?fmt=137&afmt=251&cpn=c1PKiIsDgRH4nG-h&el=detailpage&ns=yt&fexp=23983296%2C23986027%2C23998837%2C24004644%2C24007246%2C24080738%2C24135310%2C24362619%2C24366065%2C24371398%2C24373977%2C24380264%2C24415864%2C24416291%2C24437577%2C24439361%2C24471201%2C24504433%2C24522523%2C24525413%2C24528734%2C24528992%2C24540282%2C24543709%2C24550458%2C24550951%2C24554039%2C24559327%2C24699899%2C51000013%2C51000316&cl=551026372&seq=2&docid=IjIuDIKqzgc&ei=LSbHZJ6WN5SH1sQPjoel6AY&event=streamingstats&osid=AAAAAKkd2C8%3AAOeUNAY4PZCsyRhpJEeGdd-1u0ghGZmi0A&plid=AAYBv8ZS-XKs6wTj&qclc=ChBjMVBLaUlzRGdSSDRuRy1oEAI&embargoed=0&cbr=Firefox&cbrver=102.0&c=WEB&cver=2.20230728.00.00&cplayer=UNIPLAYER&cos=X11&cplatform=DESKTOP&afs=0.009:251::i&cmt=0.023:0.000,0.142:0.000,10.372:0.000&vps=0.023:B,0.142:N&ctmp=dompaused:t.155;r.promise;m.NotAllowedError&stream=0.203:A&bwm=10.372:816789:2.360&bwe=10.372:155779&vis=10.372:3&bh=10.372:16.000
+HEADERS:
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/watch?v=IjIuDIKqzgc
+X-Goog-Visitor-Id: CgtwdEFmZzVFOHM2SSitzJymBg%3D%3D
+X-Goog-AuthUser: 0
+X-Yt-Auth-Test: test
+X-YouTube-Client-Name: 1
+X-YouTube-Client-Version: 2.20230728.00.00
+X-YouTube-Device: cbr=Firefox&cbrver=102.0&ceng=Gecko&cengver=102.0&cos=X11&cplatform=DESKTOP
+X-Youtube-Identity-Token: QUFFLUhqa2Y0WE8zZkpodlREUGd1LTh0V01ORmc4QXZNQXw=
+X-YouTube-Page-CL: 551741488
+X-YouTube-Page-Label: youtube.desktop.web_20230728_00_RC00
+X-YouTube-Utc-Offset: -180
+X-YouTube-Time-Zone: America/Sao_Paulo
+X-YouTube-Ad-Signals: dt=1690773038193&flash=0&frm&u_tz=-180&u_his=2&u_h=1080&u_w=1920&u_ah=1048&u_aw=1920&u_cd=24&bc=31&bih=858&biw=830&brdim=-26%2C9%2C-26%2C9%2C1920%2C32%2C830%2C943%2C830%2C858&vis=2&wgl=true&ca_type=image
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 226
+Origin: https://www.youtube.com
+Alt-Used: www.youtube.com
+Connection: keep-alive
+Cookie: SID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3_xEnLNex_J-gxbHgopyKpA.; __Secure-1PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-3PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-1PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm30jxyYmzcWQvDzStcqtH9YQ.; __Secure-3PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3-dArU1I7uGuUZrc9IiVL7Q.; HSID=A1cqb19h4TQNHaDqB; SSID=AYlT0VacCHYoYMZUp; APISID=ivRjYjK-0e2l1wZY/A8O1u5QLwduvhZSLW; SAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-1PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-3PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; PREF=f6=80&tz=America.Sao_Paulo; LOGIN_INFO=AFmmF2swRgIhAKBGR5Iw4D-iE2gJzuq9xM9ac4dkIT-_NqD6joIVidrhAiEAoJ3ScVBpUtHRM1VTThxUJEjcd3QrlusiVsOKi9AGZcA:QUQ3MjNmekdDRHkzUmJVS2JNUXoxaElnMzhqTUlHNC1SZm1MN2Q0c3FKVHZqNVozT3FQQkdIeDBPa3RpMjF1QTNvUnM0eEVDb292MVlPZGtwSVZ6emtJNGh3cFpNQVJsZnhZOVA2SS1QanRzeG1qWWVGTHZ2bDBJMXdiQkxxZFVHY01aQTUwUnRsZmVXRVZYN3NHMDV1RGUyTjg4a2VieG53; VISITOR_INFO1_LIVE=ptAfg5E8s6I; SIDCC=APoG2W_EfJqYWRF9uuYN9uFTtQOzItF4_WjIsiXDaTb1shz28iG5OOhrvXVQyX5YjLRublQO2jw; __Secure-1PSIDCC=APoG2W-Z4YQYHBN-hcspdFLlszFuuHIWmYg3IkcsGkxtOZN_9Ir-X9As5vZcTof1Wuj3w0uTkQ; __Secure-3PSIDCC=APoG2W-J-yGalQz8jG8nQQ_IFySssS_Q6E9i-SU3rfIMS5uQt2FJVXuJEEvj7GToBUSlnKgiHLw; _ga=GA1.1.1207446393.1690688431; _gid=GA1.2.755430197.1690688431; _ga_M0180HEFCY=GS1.1.1690688431.1.0.1690688433.0.0.0; YSC=HY5Sef0oexA
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+POST: https://rr2---sn-cg5npaqpbpu5acg-28ie.googlevideo.com/videoplayback?expire=1690794637&ei=LSbHZKPQNJWF-LAPqIm7wA8&ip=2804%3A1128%3Abff7%3Ac900%3A52aa%3A329d%3Ab368%3Af320&id=o-ANQnF3GEYo2ljszSum0uhW5-J9EZf56UKYROJZ-YTiLM&itag=137&aitags=134%2C136%2C137%2C160%2C243&source=youtube&requiressl=yes&mh=08&mm=31%2C29&mn=sn-cg5npaqpbpu5acg-28ie%2Csn-gpv7ynes&ms=au%2Crdu&mv=m&mvi=2&pl=44&ctier=A&pfa=5&initcwndbps=1301250&hightc=yes&siu=1&spc=Ul2Sq5qdebpIl9a7h86aVwl4O1LJPQmj2R8geDzT4bzj2gW845Q0SqY&vprv=1&svpuc=1&mime=video%2Fmp4&ns=-JB3_yA9QH0LxE4unkKz1KgO&gir=yes&clen=18001310&dur=301.266&lmt=1675139536577553&mt=1690772972&fvip=3&keepalive=yes&fexp=24007246%2C51000013&beids=24350017&c=WEB&txp=6216224&n=_r6CeSpVBczpQQ&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cctier%2Cpfa%2Chightc%2Csiu%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRAIgBukXCpT13ZaLFP8ICfehcPffgFkKWM4I4tuIl_pUkekCIGycMdguDrxHCBj-9Pr13tiQyQkDnNJq6_GPIa_c9PqZ&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAOyz705L-D8Oj9GRU-RIsiTcVxNl31MDTAfRl8uPgoo_AiEAo_0Ry3siQ5j0zsofJlKs56l2MolbDnDVsI-dg-7BFX8%3D&alr=yes&cpn=c1PKiIsDgRH4nG-h&cver=2.20230728.00.00&range=554926-1984614&rn=5&rbuf=17330&pot=Ih8Oxw7GagAo_j_3Pvc98jb1N_A88jz3N_U-8jrwO7ty&ump=1&srfvp=1
+HEADERS:
+Host: rr2---sn-cg5npaqpbpu5acg-28ie.googlevideo.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Content-Length: 2
+Origin: https://www.youtube.com
+Alt-Used: rr2---sn-cg5npaqpbpu5acg-28ie.googlevideo.com
+Connection: keep-alive
+Referer: https://www.youtube.com/
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+POST: https://rr2---sn-cg5npaqpbpu5acg-28ie.googlevideo.com/videoplayback?expire=1690794637&ei=LSbHZKPQNJWF-LAPqIm7wA8&ip=2804%3A1128%3Abff7%3Ac900%3A52aa%3A329d%3Ab368%3Af320&id=o-ANQnF3GEYo2ljszSum0uhW5-J9EZf56UKYROJZ-YTiLM&itag=136&aitags=134%2C136%2C137%2C160%2C243&source=youtube&requiressl=yes&mh=08&mm=31%2C29&mn=sn-cg5npaqpbpu5acg-28ie%2Csn-gpv7ynes&ms=au%2Crdu&mv=m&mvi=2&pl=44&ctier=A&pfa=5&initcwndbps=1301250&hightc=yes&siu=1&spc=Ul2Sq5qdebpIl9a7h86aVwl4O1LJPQmj2R8geDzT4bzj2gW845Q0SqY&vprv=1&svpuc=1&mime=video%2Fmp4&ns=-JB3_yA9QH0LxE4unkKz1KgO&gir=yes&clen=9409814&dur=301.266&lmt=1675139529091223&mt=1690772972&fvip=3&keepalive=yes&fexp=24007246%2C51000013&beids=24350017&c=WEB&txp=6216224&n=_r6CeSpVBczpQQ&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cctier%2Cpfa%2Chightc%2Csiu%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRQIgQGddrzZEK_SmFVFwGalgkil9EWgaOCvqeDFaI_8ErmICIQC0m_fksjC2XpxlDJYoAmk9fIZzSwdTUIFyCNDQCbqyTA%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAOyz705L-D8Oj9GRU-RIsiTcVxNl31MDTAfRl8uPgoo_AiEAo_0Ry3siQ5j0zsofJlKs56l2MolbDnDVsI-dg-7BFX8%3D&alr=yes&cpn=c1PKiIsDgRH4nG-h&cver=2.20230728.00.00&range=0-1455&rn=6&rbuf=0&pot=Ih8_oD-hW2cZmQ6QD5AMlQeSBpcNlQ2QBpIPlQuXCtxD&ump=1&srfvp=1
+HEADERS:
+Host: rr2---sn-cg5npaqpbpu5acg-28ie.googlevideo.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Content-Length: 2
+Origin: https://www.youtube.com
+Alt-Used: rr2---sn-cg5npaqpbpu5acg-28ie.googlevideo.com
+Connection: keep-alive
+Referer: https://www.youtube.com/
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+POST: https://rr2---sn-cg5npaqpbpu5acg-28ie.googlevideo.com/videoplayback?expire=1690794637&ei=LSbHZKPQNJWF-LAPqIm7wA8&ip=2804%3A1128%3Abff7%3Ac900%3A52aa%3A329d%3Ab368%3Af320&id=o-ANQnF3GEYo2ljszSum0uhW5-J9EZf56UKYROJZ-YTiLM&itag=251&source=youtube&requiressl=yes&mh=08&mm=31%2C29&mn=sn-cg5npaqpbpu5acg-28ie%2Csn-gpv7ynes&ms=au%2Crdu&mv=m&mvi=2&pl=44&ctier=A&pfa=5&initcwndbps=1301250&hightc=yes&siu=1&spc=Ul2Sq5qdebpIl9a7h86aVwl4O1LJPQmj2R8geDzT4bzj2gW845Q0SqY&vprv=1&svpuc=1&mime=audio%2Fwebm&ns=-JB3_yA9QH0LxE4unkKz1KgO&gir=yes&clen=3521761&dur=301.281&lmt=1615714437422902&mt=1690772972&fvip=3&keepalive=yes&fexp=24007246%2C51000013&beids=24350017&c=WEB&txp=6211222&n=_r6CeSpVBczpQQ&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cctier%2Cpfa%2Chightc%2Csiu%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRAIgZiFRkqoEBdNnRKor-VlkuKbO8c8BVe8Pk0bMSFhB2Y0CICf5Kfk30Xh3lCYSZZ-GzXKwZ9yqtVfibW6m2UCEsWc2&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAOyz705L-D8Oj9GRU-RIsiTcVxNl31MDTAfRl8uPgoo_AiEAo_0Ry3siQ5j0zsofJlKs56l2MolbDnDVsI-dg-7BFX8%3D&alr=yes&cpn=c1PKiIsDgRH4nG-h&cver=2.20230728.00.00&range=261631-382629&rn=7&rbuf=20001&pot=Ih9htGG1BXNHjVCEUYRSgVmGWINTgVOEWIZRgVWDVMgd&ump=1&srfvp=1
+HEADERS:
+Host: rr2---sn-cg5npaqpbpu5acg-28ie.googlevideo.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Content-Length: 2
+Origin: https://www.youtube.com
+Alt-Used: rr2---sn-cg5npaqpbpu5acg-28ie.googlevideo.com
+Connection: keep-alive
+Referer: https://www.youtube.com/
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+POST: https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/Create
+HEADERS:
+Host: jnn-pa.googleapis.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+X-Goog-Api-Key: AIzaSyDyT5W0Jh49F30Pqqtyfdf7pDLFKLJoAnw
+Content-Type: application/json+protobuf
+X-User-Agent: grpc-web-javascript/0.1
+Content-Length: 24
+Origin: https://www.youtube.com
+Connection: keep-alive
+Referer: https://www.youtube.com/
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://static.doubleclick.net/instream/ad_status.js
+HEADERS:
+Host: static.doubleclick.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Alt-Used: static.doubleclick.net
+Connection: keep-alive
+Referer: https://www.youtube.com/
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: cross-site
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+POST: https://www.youtube.com/youtubei/v1/att/get?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8&prettyPrint=false
+HEADERS:
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/watch?v=IjIuDIKqzgc
+Content-Type: application/json
+X-Goog-Visitor-Id: CgtwdEFmZzVFOHM2SSitzJymBg%3D%3D
+X-Youtube-Bootstrap-Logged-In: true
+X-Youtube-Client-Name: 1
+X-Youtube-Client-Version: 2.20230728.00.00
+Authorization: SAPISIDHASH 1690773051_7e4f5f908994b33f5cbc837c3001fdd6e87c38b0
+X-Goog-AuthUser: 0
+X-Origin: https://www.youtube.com
+Origin: https://www.youtube.com
+Content-Length: 2116
+Alt-Used: www.youtube.com
+Connection: keep-alive
+Cookie: SID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3_xEnLNex_J-gxbHgopyKpA.; __Secure-1PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-3PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-1PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm30jxyYmzcWQvDzStcqtH9YQ.; __Secure-3PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3-dArU1I7uGuUZrc9IiVL7Q.; HSID=A1cqb19h4TQNHaDqB; SSID=AYlT0VacCHYoYMZUp; APISID=ivRjYjK-0e2l1wZY/A8O1u5QLwduvhZSLW; SAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-1PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-3PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; PREF=f6=80&tz=America.Sao_Paulo; LOGIN_INFO=AFmmF2swRgIhAKBGR5Iw4D-iE2gJzuq9xM9ac4dkIT-_NqD6joIVidrhAiEAoJ3ScVBpUtHRM1VTThxUJEjcd3QrlusiVsOKi9AGZcA:QUQ3MjNmekdDRHkzUmJVS2JNUXoxaElnMzhqTUlHNC1SZm1MN2Q0c3FKVHZqNVozT3FQQkdIeDBPa3RpMjF1QTNvUnM0eEVDb292MVlPZGtwSVZ6emtJNGh3cFpNQVJsZnhZOVA2SS1QanRzeG1qWWVGTHZ2bDBJMXdiQkxxZFVHY01aQTUwUnRsZmVXRVZYN3NHMDV1RGUyTjg4a2VieG53; VISITOR_INFO1_LIVE=ptAfg5E8s6I; SIDCC=APoG2W_EfJqYWRF9uuYN9uFTtQOzItF4_WjIsiXDaTb1shz28iG5OOhrvXVQyX5YjLRublQO2jw; __Secure-1PSIDCC=APoG2W-Z4YQYHBN-hcspdFLlszFuuHIWmYg3IkcsGkxtOZN_9Ir-X9As5vZcTof1Wuj3w0uTkQ; __Secure-3PSIDCC=APoG2W-J-yGalQz8jG8nQQ_IFySssS_Q6E9i-SU3rfIMS5uQt2FJVXuJEEvj7GToBUSlnKgiHLw; _ga=GA1.1.1207446393.1690688431; _gid=GA1.2.755430197.1690688431; _ga_M0180HEFCY=GS1.1.1690688431.1.0.1690688433.0.0.0; YSC=HY5Sef0oexA
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: same-origin
+Sec-Fetch-Site: same-origin
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+POST: https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT
+HEADERS:
+Host: jnn-pa.googleapis.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+X-Goog-Api-Key: AIzaSyDyT5W0Jh49F30Pqqtyfdf7pDLFKLJoAnw
+Content-Type: application/json+protobuf
+X-User-Agent: grpc-web-javascript/0.1
+Content-Length: 1202
+Origin: https://www.youtube.com
+Connection: keep-alive
+Referer: https://www.youtube.com/
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://www.google.com/js/th/vywNy2LuRYAQKTxUAtYbBQpEuSiPnvrhm8tzqkanqwc.js
+HEADERS:
+Host: www.google.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Alt-Used: www.google.com
+Connection: keep-alive
+Referer: https://www.youtube.com/
+Cookie: NID=511=Cu2zE1iQ3x1oUttQ81ir73HuDGL_hUzn2Pu2xflhq_eLKXkkI7PTp1bh2jr7Nz4U2rbDA2IkR4SYEh8Dfaof7uKVZRvVKUZaPspTcsQNy1VaIX9dNx-rNXlPzOEEfZjk_CJeb3ZuBMJBUguvYG54x1bSlZv9Sulb6crNs7g0Z8I
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: cross-site
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+POST: https://www.youtube.com/youtubei/v1/att/get?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8&prettyPrint=false
+HEADERS:
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/watch?v=IjIuDIKqzgc
+Content-Type: application/json
+X-Goog-Visitor-Id: CgtwdEFmZzVFOHM2SSitzJymBg%3D%3D
+X-Youtube-Bootstrap-Logged-In: true
+X-Youtube-Client-Name: 1
+X-Youtube-Client-Version: 2.20230728.00.00
+Authorization: SAPISIDHASH 1690773053_eb2974b0f8796b686d4f02693555ed15549f7ec7
+X-Goog-AuthUser: 0
+X-Origin: https://www.youtube.com
+Content-Length: 2285
+Origin: https://www.youtube.com
+Alt-Used: www.youtube.com
+Connection: keep-alive
+Cookie: SID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3_xEnLNex_J-gxbHgopyKpA.; __Secure-1PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-3PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-1PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm30jxyYmzcWQvDzStcqtH9YQ.; __Secure-3PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3-dArU1I7uGuUZrc9IiVL7Q.; HSID=A1cqb19h4TQNHaDqB; SSID=AYlT0VacCHYoYMZUp; APISID=ivRjYjK-0e2l1wZY/A8O1u5QLwduvhZSLW; SAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-1PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-3PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; PREF=f6=80&tz=America.Sao_Paulo; LOGIN_INFO=AFmmF2swRgIhAKBGR5Iw4D-iE2gJzuq9xM9ac4dkIT-_NqD6joIVidrhAiEAoJ3ScVBpUtHRM1VTThxUJEjcd3QrlusiVsOKi9AGZcA:QUQ3MjNmekdDRHkzUmJVS2JNUXoxaElnMzhqTUlHNC1SZm1MN2Q0c3FKVHZqNVozT3FQQkdIeDBPa3RpMjF1QTNvUnM0eEVDb292MVlPZGtwSVZ6emtJNGh3cFpNQVJsZnhZOVA2SS1QanRzeG1qWWVGTHZ2bDBJMXdiQkxxZFVHY01aQTUwUnRsZmVXRVZYN3NHMDV1RGUyTjg4a2VieG53; VISITOR_INFO1_LIVE=ptAfg5E8s6I; SIDCC=APoG2W8wcoqE_ZNgkav2sCeVUfAHT1WVLIZEpLxV85owRWBa3YmiFa045CI2l1Yyz_-fSVNj5XI; __Secure-1PSIDCC=APoG2W83acuxzaKKdget4OLI-lmCoeBLR3-hcX9H5rwSjgCQY5Sidwa01wjMBuyR83OR4xOtag; __Secure-3PSIDCC=APoG2W_rSqEmg3XL4yU0sQusuGcfwFuJZjPHp0FbGZBlj9bnd2CwqLET9VK7_aTeqQFrACAYSlo; _ga=GA1.1.1207446393.1690688431; _gid=GA1.2.755430197.1690688431; _ga_M0180HEFCY=GS1.1.1690688431.1.0.1690688433.0.0.0; YSC=HY5Sef0oexA
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://www.google.com/js/th/vywNy2LuRYAQKTxUAtYbBQpEuSiPnvrhm8tzqkanqwc.js
+HEADERS:
+Host: www.google.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Alt-Used: www.google.com
+Connection: keep-alive
+Referer: https://www.youtube.com/
+Cookie: NID=511=Cu2zE1iQ3x1oUttQ81ir73HuDGL_hUzn2Pu2xflhq_eLKXkkI7PTp1bh2jr7Nz4U2rbDA2IkR4SYEh8Dfaof7uKVZRvVKUZaPspTcsQNy1VaIX9dNx-rNXlPzOEEfZjk_CJeb3ZuBMJBUguvYG54x1bSlZv9Sulb6crNs7g0Z8I
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: cross-site
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://www.youtube.com/generate_204?rpt8hA
+HEADERS:
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/watch?v=IjIuDIKqzgc
+Alt-Used: www.youtube.com
+Connection: keep-alive
+Cookie: SID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3_xEnLNex_J-gxbHgopyKpA.; __Secure-1PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-3PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-1PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm30jxyYmzcWQvDzStcqtH9YQ.; __Secure-3PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3-dArU1I7uGuUZrc9IiVL7Q.; HSID=A1cqb19h4TQNHaDqB; SSID=AYlT0VacCHYoYMZUp; APISID=ivRjYjK-0e2l1wZY/A8O1u5QLwduvhZSLW; SAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-1PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-3PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; PREF=f6=80&tz=America.Sao_Paulo; LOGIN_INFO=AFmmF2swRgIhAKBGR5Iw4D-iE2gJzuq9xM9ac4dkIT-_NqD6joIVidrhAiEAoJ3ScVBpUtHRM1VTThxUJEjcd3QrlusiVsOKi9AGZcA:QUQ3MjNmekdDRHkzUmJVS2JNUXoxaElnMzhqTUlHNC1SZm1MN2Q0c3FKVHZqNVozT3FQQkdIeDBPa3RpMjF1QTNvUnM0eEVDb292MVlPZGtwSVZ6emtJNGh3cFpNQVJsZnhZOVA2SS1QanRzeG1qWWVGTHZ2bDBJMXdiQkxxZFVHY01aQTUwUnRsZmVXRVZYN3NHMDV1RGUyTjg4a2VieG53; VISITOR_INFO1_LIVE=ptAfg5E8s6I; SIDCC=APoG2W9Whc9_x5-Zn90Xv8J3ZOjFty-17lY2ngw7vWdQjvwt-W2pbUhrL5IsPw_SJ5dLkfx2k_g; __Secure-1PSIDCC=APoG2W9FtD2cy0nO786xcXEB442icHV0vty5jukKZ-d80Ra4XjilVLdFMdJ_M5la-fDMxChA7A; __Secure-3PSIDCC=APoG2W-FDy_HdiiCca-2OhbQ-4XmFgGrnxmAUm0X9ITOb8hqWwBe9wOF2K1BjCz9JgzZo2nZzuc; _ga=GA1.1.1207446393.1690688431; _gid=GA1.2.755430197.1690688431; _ga_M0180HEFCY=GS1.1.1690688431.1.0.1690688433.0.0.0; YSC=HY5Sef0oexA
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://www.gstatic.com/youtube/img/lottie/animated_like_icon/animated_like_icon_v2_light.json
+HEADERS:
+Host: www.gstatic.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Origin: https://www.youtube.com
+Connection: keep-alive
+Referer: https://www.youtube.com/
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://www.gstatic.com/external_hosted/lottie/lottie_light.js
+HEADERS:
+Host: www.gstatic.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Alt-Used: www.gstatic.com
+Connection: keep-alive
+Referer: https://www.youtube.com/
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: cross-site
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://www.gstatic.com/youtube/img/lottie/animated_like_icon/animated_like_icon_v2_light.json
+HEADERS:
+Host: www.gstatic.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Origin: https://www.youtube.com
+Connection: keep-alive
+Referer: https://www.youtube.com/
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+POST: https://rr2---sn-cg5npaqpbpu5acg-28ie.googlevideo.com/videoplayback?expire=1690794637&ei=LSbHZKPQNJWF-LAPqIm7wA8&ip=2804%3A1128%3Abff7%3Ac900%3A52aa%3A329d%3Ab368%3Af320&id=o-ANQnF3GEYo2ljszSum0uhW5-J9EZf56UKYROJZ-YTiLM&itag=251&source=youtube&requiressl=yes&mh=08&mm=31%2C29&mn=sn-cg5npaqpbpu5acg-28ie%2Csn-gpv7ynes&ms=au%2Crdu&mv=m&mvi=2&pl=44&ctier=A&pfa=5&initcwndbps=1301250&hightc=yes&siu=1&spc=Ul2Sq5qdebpIl9a7h86aVwl4O1LJPQmj2R8geDzT4bzj2gW845Q0SqY&vprv=1&svpuc=1&mime=audio%2Fwebm&ns=-JB3_yA9QH0LxE4unkKz1KgO&gir=yes&clen=3521761&dur=301.281&lmt=1615714437422902&mt=1690772972&fvip=3&keepalive=yes&fexp=24007246%2C51000013&beids=24350017&c=WEB&txp=6211222&n=_r6CeSpVBczpQQ&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cctier%2Cpfa%2Chightc%2Csiu%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRAIgZiFRkqoEBdNnRKor-VlkuKbO8c8BVe8Pk0bMSFhB2Y0CICf5Kfk30Xh3lCYSZZ-GzXKwZ9yqtVfibW6m2UCEsWc2&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAOyz705L-D8Oj9GRU-RIsiTcVxNl31MDTAfRl8uPgoo_AiEAo_0Ry3siQ5j0zsofJlKs56l2MolbDnDVsI-dg-7BFX8%3D&alr=yes&cpn=c1PKiIsDgRH4nG-h&cver=2.20230728.00.00&range=382630-643738&rn=8&rbuf=30001&pot=MlsB1oKodpmFMwHu98zlKkm2JzuS_QLpgcVw4InXRpAV0iSEe8fBQgY8FTwzGG5eqc62Yyw045xnBAXfP7us-mAsecyHRAIAJgitgFXU3pnLTkVpWoeyQf6eNyFJ&ump=1&srfvp=1
+HEADERS:
+Host: rr2---sn-cg5npaqpbpu5acg-28ie.googlevideo.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Content-Length: 2
+Origin: https://www.youtube.com
+Alt-Used: rr2---sn-cg5npaqpbpu5acg-28ie.googlevideo.com
+Connection: keep-alive
+Referer: https://www.youtube.com/
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://www.google.com/pagead/lvz?evtid=AMBsAzT5mOevtXRGfjqIrFmNhEqkkXhN6rOddYIZfkMeExsAcmxQx3QIQPOGcNGsCNe0w7TVmCyqudOIT1fU0rk2E3yf1exISw&req_ts=1690773038&pg=MainAppBootstrap%3AWatch&az=1&sigh=AOwynzJQMSTYZHZXXA-vWhleP1lRZqeHZw
+HEADERS:
+Host: www.google.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Alt-Used: www.google.com
+Connection: keep-alive
+Referer: https://www.youtube.com/
+Cookie: NID=511=Cu2zE1iQ3x1oUttQ81ir73HuDGL_hUzn2Pu2xflhq_eLKXkkI7PTp1bh2jr7Nz4U2rbDA2IkR4SYEh8Dfaof7uKVZRvVKUZaPspTcsQNy1VaIX9dNx-rNXlPzOEEfZjk_CJeb3ZuBMJBUguvYG54x1bSlZv9Sulb6crNs7g0Z8I
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: cross-site
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://www.google.com.br/pagead/lvz?evtid=AMBsAzT5mOevtXRGfjqIrFmNhEqkkXhN6rOddYIZfkMeExsAcmxQx3QIQPOGcNGsCNe0w7TVmCyqudOIT1fU0rk2E3yf1exISw&req_ts=1690773038&pg=MainAppBootstrap%3AWatch&az=1&sigh=AOwynzJQMSTYZHZXXA-vWhleP1lRZqeHZw
+HEADERS:
+Host: www.google.com.br
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Alt-Used: www.google.com.br
+Connection: keep-alive
+Referer: https://www.youtube.com/
+Cookie: NID=511=Mm89gYDWme__V-oQ5njV0RoS2bEtN96hmKjh2Pl0gwqxWrQ4KUgj9PypmmxBY2hiBvBBLfZbVXrMJ3E86A_5gMzr44VDsI0t-WQWhaEW6PxxBRg6lZ7zBAOdGkPJIfJBCmqnu4FxiLr87gEthrLBFZpgydV9tKJA-v8BcXljWrM
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: cross-site
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+POST: https://play.google.com/log?format=json&hasfast=true&authuser=0
+HEADERS:
+Host: play.google.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Authorization: SAPISIDHASH d8196d05173224c70927c82ec4d76d2a58bf76d5
+X-Goog-AuthUser: 0
+Content-Type: application/x-www-form-urlencoded;charset=utf-8
+Content-Length: 2188
+Origin: https://www.youtube.com
+Alt-Used: play.google.com
+Connection: keep-alive
+Referer: https://www.youtube.com/
+Cookie: NID=511=Cu2zE1iQ3x1oUttQ81ir73HuDGL_hUzn2Pu2xflhq_eLKXkkI7PTp1bh2jr7Nz4U2rbDA2IkR4SYEh8Dfaof7uKVZRvVKUZaPspTcsQNy1VaIX9dNx-rNXlPzOEEfZjk_CJeb3ZuBMJBUguvYG54x1bSlZv9Sulb6crNs7g0Z8I
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://accounts.youtube.com/RotateCookiesPage?origin=https://www.youtube.com&yt_pid=1
+HEADERS:
+Host: accounts.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/
+Alt-Used: accounts.youtube.com
+Connection: keep-alive
+Cookie: SID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3_xEnLNex_J-gxbHgopyKpA.; __Secure-1PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-3PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-1PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm30jxyYmzcWQvDzStcqtH9YQ.; __Secure-3PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3-dArU1I7uGuUZrc9IiVL7Q.; HSID=A1cqb19h4TQNHaDqB; SSID=AYlT0VacCHYoYMZUp; APISID=ivRjYjK-0e2l1wZY/A8O1u5QLwduvhZSLW; SAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-1PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-3PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; PREF=f6=80&tz=America.Sao_Paulo; LOGIN_INFO=AFmmF2swRgIhAKBGR5Iw4D-iE2gJzuq9xM9ac4dkIT-_NqD6joIVidrhAiEAoJ3ScVBpUtHRM1VTThxUJEjcd3QrlusiVsOKi9AGZcA:QUQ3MjNmekdDRHkzUmJVS2JNUXoxaElnMzhqTUlHNC1SZm1MN2Q0c3FKVHZqNVozT3FQQkdIeDBPa3RpMjF1QTNvUnM0eEVDb292MVlPZGtwSVZ6emtJNGh3cFpNQVJsZnhZOVA2SS1QanRzeG1qWWVGTHZ2bDBJMXdiQkxxZFVHY01aQTUwUnRsZmVXRVZYN3NHMDV1RGUyTjg4a2VieG53; VISITOR_INFO1_LIVE=ptAfg5E8s6I; SIDCC=APoG2W9Whc9_x5-Zn90Xv8J3ZOjFty-17lY2ngw7vWdQjvwt-W2pbUhrL5IsPw_SJ5dLkfx2k_g; __Secure-1PSIDCC=APoG2W9FtD2cy0nO786xcXEB442icHV0vty5jukKZ-d80Ra4XjilVLdFMdJ_M5la-fDMxChA7A; __Secure-3PSIDCC=APoG2W-FDy_HdiiCca-2OhbQ-4XmFgGrnxmAUm0X9ITOb8hqWwBe9wOF2K1BjCz9JgzZo2nZzuc; _ga=GA1.1.1207446393.1690688431; _gid=GA1.2.755430197.1690688431; _ga_M0180HEFCY=GS1.1.1690688431.1.0.1690688433.0.0.0; YSC=HY5Sef0oexA
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: iframe
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-site
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+POST: https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+HEADERS:
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/watch?v=IjIuDIKqzgc
+X-Goog-Request-Time: 1690773068351
+Content-Type: application/json
+X-Goog-Visitor-Id: CgtwdEFmZzVFOHM2SSitzJymBg%3D%3D
+Authorization: SAPISIDHASH 1690773068_7c0615791f931537060cc3c10857777024bd8106
+X-Goog-AuthUser: 0
+X-Origin: https://www.youtube.com
+Content-Encoding: gzip
+X-YouTube-Client-Name: 1
+X-YouTube-Client-Version: 2.20230728.00.00
+X-YouTube-Device: cbr=Firefox&cbrver=102.0&ceng=Gecko&cengver=102.0&cos=X11&cplatform=DESKTOP
+X-Youtube-Identity-Token: QUFFLUhqa2Y0WE8zZkpodlREUGd1LTh0V01ORmc4QXZNQXw=
+X-YouTube-Page-CL: 551741488
+X-YouTube-Page-Label: youtube.desktop.web_20230728_00_RC00
+X-Yt-Auth-Test: test
+X-YouTube-Utc-Offset: -180
+X-YouTube-Time-Zone: America/Sao_Paulo
+X-YouTube-Ad-Signals: dt=1690773038586&flash=0&frm&u_tz=-180&u_his=2&u_h=1080&u_w=1920&u_ah=1048&u_aw=1920&u_cd=24&bc=31&bih=858&biw=830&brdim=-26%2C9%2C-26%2C9%2C1920%2C32%2C830%2C943%2C830%2C858&vis=2&wgl=true&ca_type=image
+Content-Length: 3759
+Origin: https://www.youtube.com
+Alt-Used: www.youtube.com
+Connection: keep-alive
+Cookie: SID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3_xEnLNex_J-gxbHgopyKpA.; __Secure-1PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-3PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-1PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm30jxyYmzcWQvDzStcqtH9YQ.; __Secure-3PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3-dArU1I7uGuUZrc9IiVL7Q.; HSID=A1cqb19h4TQNHaDqB; SSID=AYlT0VacCHYoYMZUp; APISID=ivRjYjK-0e2l1wZY/A8O1u5QLwduvhZSLW; SAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-1PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-3PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; PREF=f6=80&tz=America.Sao_Paulo; LOGIN_INFO=AFmmF2swRgIhAKBGR5Iw4D-iE2gJzuq9xM9ac4dkIT-_NqD6joIVidrhAiEAoJ3ScVBpUtHRM1VTThxUJEjcd3QrlusiVsOKi9AGZcA:QUQ3MjNmekdDRHkzUmJVS2JNUXoxaElnMzhqTUlHNC1SZm1MN2Q0c3FKVHZqNVozT3FQQkdIeDBPa3RpMjF1QTNvUnM0eEVDb292MVlPZGtwSVZ6emtJNGh3cFpNQVJsZnhZOVA2SS1QanRzeG1qWWVGTHZ2bDBJMXdiQkxxZFVHY01aQTUwUnRsZmVXRVZYN3NHMDV1RGUyTjg4a2VieG53; VISITOR_INFO1_LIVE=ptAfg5E8s6I; SIDCC=APoG2W9Whc9_x5-Zn90Xv8J3ZOjFty-17lY2ngw7vWdQjvwt-W2pbUhrL5IsPw_SJ5dLkfx2k_g; __Secure-1PSIDCC=APoG2W9FtD2cy0nO786xcXEB442icHV0vty5jukKZ-d80Ra4XjilVLdFMdJ_M5la-fDMxChA7A; __Secure-3PSIDCC=APoG2W-FDy_HdiiCca-2OhbQ-4XmFgGrnxmAUm0X9ITOb8hqWwBe9wOF2K1BjCz9JgzZo2nZzuc; _ga=GA1.1.1207446393.1690688431; _gid=GA1.2.755430197.1690688431; _ga_M0180HEFCY=GS1.1.1690688431.1.0.1690688433.0.0.0; YSC=HY5Sef0oexA
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.IdentityRotateCookiesHttp.pt_BR.-8aDw3j32SM.es5.O/d=1/rs=AOaEmlEc3CKgBlMg6S69Vbf9ovq0AewYjQ/m=hfcr
+HEADERS:
+Host: www.gstatic.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Alt-Used: www.gstatic.com
+Connection: keep-alive
+Referer: https://accounts.youtube.com/
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: cross-site
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://yt3.ggpht.com/ytc/AOPolaS2sOGNdFwzlLPGzUFjzDV-SaafSRPAVf9rqtqFBQ=s48-c-k-c0x00ffffff-no-rj
+HEADERS:
+Host: yt3.ggpht.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Alt-Used: yt3.ggpht.com
+Connection: keep-alive
+Referer: https://www.youtube.com/
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: cross-site
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://www.gstatic.com/youtube/img/watch/yt_favicon.png
+HEADERS:
+Host: www.gstatic.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Alt-Used: www.gstatic.com
+Connection: keep-alive
+Referer: https://www.youtube.com/
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: cross-site
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+POST: https://rr2---sn-cg5npaqpbpu5acg-28ie.googlevideo.com/videoplayback?expire=1690794637&ei=LSbHZKPQNJWF-LAPqIm7wA8&ip=2804%3A1128%3Abff7%3Ac900%3A52aa%3A329d%3Ab368%3Af320&id=o-ANQnF3GEYo2ljszSum0uhW5-J9EZf56UKYROJZ-YTiLM&itag=251&source=youtube&requiressl=yes&mh=08&mm=31%2C29&mn=sn-cg5npaqpbpu5acg-28ie%2Csn-gpv7ynes&ms=au%2Crdu&mv=m&mvi=2&pl=44&ctier=A&pfa=5&initcwndbps=1301250&hightc=yes&siu=1&spc=Ul2Sq5qdebpIl9a7h86aVwl4O1LJPQmj2R8geDzT4bzj2gW845Q0SqY&vprv=1&svpuc=1&mime=audio%2Fwebm&ns=-JB3_yA9QH0LxE4unkKz1KgO&gir=yes&clen=3521761&dur=301.281&lmt=1615714437422902&mt=1690772972&fvip=3&keepalive=yes&fexp=24007246%2C51000013&beids=24350017&c=WEB&txp=6211222&n=_r6CeSpVBczpQQ&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cctier%2Cpfa%2Chightc%2Csiu%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRAIgZiFRkqoEBdNnRKor-VlkuKbO8c8BVe8Pk0bMSFhB2Y0CICf5Kfk30Xh3lCYSZZ-GzXKwZ9yqtVfibW6m2UCEsWc2&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAOyz705L-D8Oj9GRU-RIsiTcVxNl31MDTAfRl8uPgoo_AiEAo_0Ry3siQ5j0zsofJlKs56l2MolbDnDVsI-dg-7BFX8%3D&alr=yes&cpn=c1PKiIsDgRH4nG-h&cver=2.20230728.00.00&range=643739-995095&rn=9&rbuf=50001&pot=MlsB1oKodpmFMwHu98zlKkm2JzuS_QLpgcVw4InXRpAV0iSEe8fBQgY8FTwzGG5eqc62Yyw045xnBAXfP7us-mAsecyHRAIAJgitgFXU3pnLTkVpWoeyQf6eNyFJ&ump=1&srfvp=1
+HEADERS:
+Host: rr2---sn-cg5npaqpbpu5acg-28ie.googlevideo.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Content-Length: 2
+Origin: https://www.youtube.com
+Alt-Used: rr2---sn-cg5npaqpbpu5acg-28ie.googlevideo.com
+Connection: keep-alive
+Referer: https://www.youtube.com/
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+POST: https://www.youtube.com/youtubei/v1/notification/get_unseen_count?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8&prettyPrint=false
+HEADERS:
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/watch?v=IjIuDIKqzgc
+Content-Type: application/json
+X-Goog-Visitor-Id: CgtwdEFmZzVFOHM2SSitzJymBg%3D%3D
+X-Youtube-Bootstrap-Logged-In: true
+X-Youtube-Client-Name: 1
+X-Youtube-Client-Version: 2.20230728.00.00
+Authorization: SAPISIDHASH 1690773078_c61884c2ff935bc20c0502a8298b9e747d1ae44c
+X-Goog-AuthUser: 0
+X-Origin: https://www.youtube.com
+Origin: https://www.youtube.com
+Content-Length: 2156
+Alt-Used: www.youtube.com
+Connection: keep-alive
+Cookie: SID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3_xEnLNex_J-gxbHgopyKpA.; __Secure-1PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-3PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-1PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm30jxyYmzcWQvDzStcqtH9YQ.; __Secure-3PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3-dArU1I7uGuUZrc9IiVL7Q.; HSID=A1cqb19h4TQNHaDqB; SSID=AYlT0VacCHYoYMZUp; APISID=ivRjYjK-0e2l1wZY/A8O1u5QLwduvhZSLW; SAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-1PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-3PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; PREF=f6=80&tz=America.Sao_Paulo; LOGIN_INFO=AFmmF2swRgIhAKBGR5Iw4D-iE2gJzuq9xM9ac4dkIT-_NqD6joIVidrhAiEAoJ3ScVBpUtHRM1VTThxUJEjcd3QrlusiVsOKi9AGZcA:QUQ3MjNmekdDRHkzUmJVS2JNUXoxaElnMzhqTUlHNC1SZm1MN2Q0c3FKVHZqNVozT3FQQkdIeDBPa3RpMjF1QTNvUnM0eEVDb292MVlPZGtwSVZ6emtJNGh3cFpNQVJsZnhZOVA2SS1QanRzeG1qWWVGTHZ2bDBJMXdiQkxxZFVHY01aQTUwUnRsZmVXRVZYN3NHMDV1RGUyTjg4a2VieG53; VISITOR_INFO1_LIVE=ptAfg5E8s6I; SIDCC=APoG2W-8mLXm8UtobtYETbrk-smtcBUM0lfUSitFPylKT3S5Lsuv2Eg7GILL7V0ORPu1Fs0ka7k; __Secure-1PSIDCC=APoG2W-U2J4-rzHZRdijKe2lHcx2ZSt-P8bcA1rcmUHapKQ5GHVjzaOjyQ3nZqjVfra16HWklA; __Secure-3PSIDCC=APoG2W-aOw5-gKI3bVukwMgtLBJfXUA_FfOYHBZ3-O8kH_zmOSzWRhimcfHoJ9gFz5-y_uVI_-c; _ga=GA1.1.1207446393.1690688431; _gid=GA1.2.755430197.1690688431; _ga_M0180HEFCY=GS1.1.1690688431.1.0.1690688433.0.0.0; YSC=HY5Sef0oexA
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: same-origin
+Sec-Fetch-Site: same-origin
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+POST: https://play.google.com/log?format=json&hasfast=true&authuser=0
+HEADERS:
+Host: play.google.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Authorization: SAPISIDHASH d8196d05173224c70927c82ec4d76d2a58bf76d5
+X-Goog-AuthUser: 0
+Content-Type: application/x-www-form-urlencoded;charset=utf-8
+Content-Length: 355
+Origin: https://www.youtube.com
+Alt-Used: play.google.com
+Connection: keep-alive
+Referer: https://www.youtube.com/
+Cookie: NID=511=Cu2zE1iQ3x1oUttQ81ir73HuDGL_hUzn2Pu2xflhq_eLKXkkI7PTp1bh2jr7Nz4U2rbDA2IkR4SYEh8Dfaof7uKVZRvVKUZaPspTcsQNy1VaIX9dNx-rNXlPzOEEfZjk_CJeb3ZuBMJBUguvYG54x1bSlZv9Sulb6crNs7g0Z8I
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+POST: https://play.google.com/log?format=json&hasfast=true&authuser=0
+HEADERS:
+Host: play.google.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Authorization: SAPISIDHASH d8196d05173224c70927c82ec4d76d2a58bf76d5
+X-Goog-AuthUser: 0
+Content-Type: application/x-www-form-urlencoded;charset=utf-8
+Content-Length: 355
+Origin: https://www.youtube.com
+Alt-Used: play.google.com
+Connection: keep-alive
+Referer: https://www.youtube.com/
+Cookie: NID=511=Cu2zE1iQ3x1oUttQ81ir73HuDGL_hUzn2Pu2xflhq_eLKXkkI7PTp1bh2jr7Nz4U2rbDA2IkR4SYEh8Dfaof7uKVZRvVKUZaPspTcsQNy1VaIX9dNx-rNXlPzOEEfZjk_CJeb3ZuBMJBUguvYG54x1bSlZv9Sulb6crNs7g0Z8I
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc4.woff2
+HEADERS:
+Host: fonts.gstatic.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: identity
+Origin: https://www.youtube.com
+Connection: keep-alive
+Referer: https://fonts.googleapis.com/
+Sec-Fetch-Dest: font
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://i.ytimg.com/vi/tuHr9f3OADg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBq65W2bLNTJlvImo-orKUvUYyBbw
+HEADERS:
+Host: i.ytimg.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Alt-Used: i.ytimg.com
+Connection: keep-alive
+Referer: https://www.youtube.com/
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: cross-site
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://i.ytimg.com/vi/0tGul-JK7n4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDZi2pfGEz76fQMDYlRXjEvTyGOPw
+HEADERS:
+Host: i.ytimg.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Alt-Used: i.ytimg.com
+Connection: keep-alive
+Referer: https://www.youtube.com/
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: cross-site
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://yt3.ggpht.com/EmTZH2Ah7CZozl9QLKpls40pOQ13p8qhoXGL2FNpdo2zrmc42uQqPc67WgXNaPt_J_S1OvFavA=s88-c-k-c0x00ffffff-no-rj
+HEADERS:
+Host: yt3.ggpht.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Alt-Used: yt3.ggpht.com
+Connection: keep-alive
+Referer: https://www.youtube.com/
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: cross-site
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+POST: https://rr2---sn-cg5npaqpbpu5acg-28ie.googlevideo.com/videoplayback?expire=1690794637&ei=LSbHZKPQNJWF-LAPqIm7wA8&ip=2804%3A1128%3Abff7%3Ac900%3A52aa%3A329d%3Ab368%3Af320&id=o-ANQnF3GEYo2ljszSum0uhW5-J9EZf56UKYROJZ-YTiLM&itag=137&aitags=134%2C136%2C137%2C160%2C243&source=youtube&requiressl=yes&mh=08&mm=31%2C29&mn=sn-cg5npaqpbpu5acg-28ie%2Csn-gpv7ynes&ms=au%2Crdu&mv=m&mvi=2&pl=44&ctier=A&pfa=5&initcwndbps=1301250&hightc=yes&siu=1&spc=Ul2Sq5qdebpIl9a7h86aVwl4O1LJPQmj2R8geDzT4bzj2gW845Q0SqY&vprv=1&svpuc=1&mime=video%2Fmp4&ns=-JB3_yA9QH0LxE4unkKz1KgO&gir=yes&clen=18001310&dur=301.266&lmt=1675139536577553&mt=1690772972&fvip=3&keepalive=yes&fexp=24007246%2C51000013&beids=24350017&c=WEB&txp=6216224&n=_r6CeSpVBczpQQ&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cctier%2Cpfa%2Chightc%2Csiu%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRAIgBukXCpT13ZaLFP8ICfehcPffgFkKWM4I4tuIl_pUkekCIGycMdguDrxHCBj-9Pr13tiQyQkDnNJq6_GPIa_c9PqZ&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAOyz705L-D8Oj9GRU-RIsiTcVxNl31MDTAfRl8uPgoo_AiEAo_0Ry3siQ5j0zsofJlKs56l2MolbDnDVsI-dg-7BFX8%3D&alr=yes&cpn=c1PKiIsDgRH4nG-h&cver=2.20230728.00.00&range=1984615-3604493&rn=10&rbuf=64000&pot=MlsB1oKodpmFMwHu98zlKkm2JzuS_QLpgcVw4InXRpAV0iSEe8fBQgY8FTwzGG5eqc62Yyw045xnBAXfP7us-mAsecyHRAIAJgitgFXU3pnLTkVpWoeyQf6eNyFJ&ump=1&srfvp=1
+HEADERS:
+Host: rr2---sn-cg5npaqpbpu5acg-28ie.googlevideo.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Content-Length: 2
+Origin: https://www.youtube.com
+Alt-Used: rr2---sn-cg5npaqpbpu5acg-28ie.googlevideo.com
+Connection: keep-alive
+Referer: https://www.youtube.com/
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://www.youtube.com/s/desktop/83a619e0/jsbin/www-searchbox.vflset/www-searchbox.js
+HEADERS:
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/watch?v=IjIuDIKqzgc
+Alt-Used: www.youtube.com
+Connection: keep-alive
+Cookie: SID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3_xEnLNex_J-gxbHgopyKpA.; __Secure-1PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-3PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-1PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm30jxyYmzcWQvDzStcqtH9YQ.; __Secure-3PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3-dArU1I7uGuUZrc9IiVL7Q.; HSID=A1cqb19h4TQNHaDqB; SSID=AYlT0VacCHYoYMZUp; APISID=ivRjYjK-0e2l1wZY/A8O1u5QLwduvhZSLW; SAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-1PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-3PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; PREF=f6=80&tz=America.Sao_Paulo; LOGIN_INFO=AFmmF2swRgIhAKBGR5Iw4D-iE2gJzuq9xM9ac4dkIT-_NqD6joIVidrhAiEAoJ3ScVBpUtHRM1VTThxUJEjcd3QrlusiVsOKi9AGZcA:QUQ3MjNmekdDRHkzUmJVS2JNUXoxaElnMzhqTUlHNC1SZm1MN2Q0c3FKVHZqNVozT3FQQkdIeDBPa3RpMjF1QTNvUnM0eEVDb292MVlPZGtwSVZ6emtJNGh3cFpNQVJsZnhZOVA2SS1QanRzeG1qWWVGTHZ2bDBJMXdiQkxxZFVHY01aQTUwUnRsZmVXRVZYN3NHMDV1RGUyTjg4a2VieG53; VISITOR_INFO1_LIVE=ptAfg5E8s6I; SIDCC=APoG2W_jD8okX3sdD0hjxtnmB1zT1rAfJ8Mn_KqSK7PfsRb-69iQ_s_RgWFo0LRYRDB3mXcw_ZI; __Secure-1PSIDCC=APoG2W_NFw_CRQbXXvsisuy-J1QvxJWzv8qFfRU_9ntOXOEbjHHQJyrXv28rVJsjtc8328iNBQ; __Secure-3PSIDCC=APoG2W-zF-lXCHE1IeXxVfSUupyYkOKlqM4FjGmyYoK06jrYl1vTDxsWmEj4olztYdSZdA2xocA; _ga=GA1.1.1207446393.1690688431; _gid=GA1.2.755430197.1690688431; _ga_M0180HEFCY=GS1.1.1690688431.1.0.1690688433.0.0.0; YSC=HY5Sef0oexA
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://www.gstatic.com/inputtools/images/tia.png
+HEADERS:
+Host: www.gstatic.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Alt-Used: www.gstatic.com
+Connection: keep-alive
+Referer: https://www.youtube.com/
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: cross-site
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://suggestqueries-clients6.youtube.com/generate_204
+HEADERS:
+Host: suggestqueries-clients6.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.youtube.com/
+Alt-Used: suggestqueries-clients6.youtube.com
+Connection: keep-alive
+Cookie: SID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3_xEnLNex_J-gxbHgopyKpA.; __Secure-1PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-3PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-1PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm30jxyYmzcWQvDzStcqtH9YQ.; __Secure-3PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3-dArU1I7uGuUZrc9IiVL7Q.; HSID=A1cqb19h4TQNHaDqB; SSID=AYlT0VacCHYoYMZUp; APISID=ivRjYjK-0e2l1wZY/A8O1u5QLwduvhZSLW; SAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-1PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-3PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; PREF=f6=80&tz=America.Sao_Paulo; LOGIN_INFO=AFmmF2swRgIhAKBGR5Iw4D-iE2gJzuq9xM9ac4dkIT-_NqD6joIVidrhAiEAoJ3ScVBpUtHRM1VTThxUJEjcd3QrlusiVsOKi9AGZcA:QUQ3MjNmekdDRHkzUmJVS2JNUXoxaElnMzhqTUlHNC1SZm1MN2Q0c3FKVHZqNVozT3FQQkdIeDBPa3RpMjF1QTNvUnM0eEVDb292MVlPZGtwSVZ6emtJNGh3cFpNQVJsZnhZOVA2SS1QanRzeG1qWWVGTHZ2bDBJMXdiQkxxZFVHY01aQTUwUnRsZmVXRVZYN3NHMDV1RGUyTjg4a2VieG53; VISITOR_INFO1_LIVE=ptAfg5E8s6I; SIDCC=APoG2W_jD8okX3sdD0hjxtnmB1zT1rAfJ8Mn_KqSK7PfsRb-69iQ_s_RgWFo0LRYRDB3mXcw_ZI; __Secure-1PSIDCC=APoG2W_NFw_CRQbXXvsisuy-J1QvxJWzv8qFfRU_9ntOXOEbjHHQJyrXv28rVJsjtc8328iNBQ; __Secure-3PSIDCC=APoG2W-zF-lXCHE1IeXxVfSUupyYkOKlqM4FjGmyYoK06jrYl1vTDxsWmEj4olztYdSZdA2xocA; _ga=GA1.1.1207446393.1690688431; _gid=GA1.2.755430197.1690688431; _ga_M0180HEFCY=GS1.1.1690688431.1.0.1690688433.0.0.0; YSC=HY5Sef0oexA
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-site
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://i.ytimg.com/sb/IjIuDIKqzgc/storyboard3_L1/M0.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjusLeCBg==&sigh=rs%24AOn4CLAaU3n31LAFWmsm_coe0uWKP4HJmg
+HEADERS:
+Host: i.ytimg.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Alt-Used: i.ytimg.com
+Connection: keep-alive
+Referer: https://www.youtube.com/
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: cross-site
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://www.youtube.com/sw.js
+HEADERS:
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Service-Worker: script
+Alt-Used: www.youtube.com
+Connection: keep-alive
+Cookie: SID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3_xEnLNex_J-gxbHgopyKpA.; __Secure-1PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-3PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-1PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm30jxyYmzcWQvDzStcqtH9YQ.; __Secure-3PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3-dArU1I7uGuUZrc9IiVL7Q.; HSID=A1cqb19h4TQNHaDqB; SSID=AYlT0VacCHYoYMZUp; APISID=ivRjYjK-0e2l1wZY/A8O1u5QLwduvhZSLW; SAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-1PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-3PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; PREF=f6=80&tz=America.Sao_Paulo; LOGIN_INFO=AFmmF2swRgIhAKBGR5Iw4D-iE2gJzuq9xM9ac4dkIT-_NqD6joIVidrhAiEAoJ3ScVBpUtHRM1VTThxUJEjcd3QrlusiVsOKi9AGZcA:QUQ3MjNmekdDRHkzUmJVS2JNUXoxaElnMzhqTUlHNC1SZm1MN2Q0c3FKVHZqNVozT3FQQkdIeDBPa3RpMjF1QTNvUnM0eEVDb292MVlPZGtwSVZ6emtJNGh3cFpNQVJsZnhZOVA2SS1QanRzeG1qWWVGTHZ2bDBJMXdiQkxxZFVHY01aQTUwUnRsZmVXRVZYN3NHMDV1RGUyTjg4a2VieG53; VISITOR_INFO1_LIVE=ptAfg5E8s6I; SIDCC=APoG2W_jD8okX3sdD0hjxtnmB1zT1rAfJ8Mn_KqSK7PfsRb-69iQ_s_RgWFo0LRYRDB3mXcw_ZI; __Secure-1PSIDCC=APoG2W_NFw_CRQbXXvsisuy-J1QvxJWzv8qFfRU_9ntOXOEbjHHQJyrXv28rVJsjtc8328iNBQ; __Secure-3PSIDCC=APoG2W-zF-lXCHE1IeXxVfSUupyYkOKlqM4FjGmyYoK06jrYl1vTDxsWmEj4olztYdSZdA2xocA; _ga=GA1.1.1207446393.1690688431; _gid=GA1.2.755430197.1690688431; _ga_M0180HEFCY=GS1.1.1690688431.1.0.1690688433.0.0.0; YSC=HY5Sef0oexA
+Sec-Fetch-Dest: serviceworker
+Sec-Fetch-Mode: same-origin
+Sec-Fetch-Site: same-origin
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://www.youtube.com/s/desktop/51e20ad6/jsbin/serviceworker-notifications.vflset/serviceworker-notifications.js
+HEADERS:
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Service-Worker: script
+Alt-Used: www.youtube.com
+Connection: keep-alive
+Cookie: SID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3_xEnLNex_J-gxbHgopyKpA.; __Secure-1PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-3PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-1PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm30jxyYmzcWQvDzStcqtH9YQ.; __Secure-3PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3-dArU1I7uGuUZrc9IiVL7Q.; HSID=A1cqb19h4TQNHaDqB; SSID=AYlT0VacCHYoYMZUp; APISID=ivRjYjK-0e2l1wZY/A8O1u5QLwduvhZSLW; SAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-1PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-3PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; PREF=f6=80&tz=America.Sao_Paulo; LOGIN_INFO=AFmmF2swRgIhAKBGR5Iw4D-iE2gJzuq9xM9ac4dkIT-_NqD6joIVidrhAiEAoJ3ScVBpUtHRM1VTThxUJEjcd3QrlusiVsOKi9AGZcA:QUQ3MjNmekdDRHkzUmJVS2JNUXoxaElnMzhqTUlHNC1SZm1MN2Q0c3FKVHZqNVozT3FQQkdIeDBPa3RpMjF1QTNvUnM0eEVDb292MVlPZGtwSVZ6emtJNGh3cFpNQVJsZnhZOVA2SS1QanRzeG1qWWVGTHZ2bDBJMXdiQkxxZFVHY01aQTUwUnRsZmVXRVZYN3NHMDV1RGUyTjg4a2VieG53; VISITOR_INFO1_LIVE=ptAfg5E8s6I; SIDCC=APoG2W_jD8okX3sdD0hjxtnmB1zT1rAfJ8Mn_KqSK7PfsRb-69iQ_s_RgWFo0LRYRDB3mXcw_ZI; __Secure-1PSIDCC=APoG2W_NFw_CRQbXXvsisuy-J1QvxJWzv8qFfRU_9ntOXOEbjHHQJyrXv28rVJsjtc8328iNBQ; __Secure-3PSIDCC=APoG2W-zF-lXCHE1IeXxVfSUupyYkOKlqM4FjGmyYoK06jrYl1vTDxsWmEj4olztYdSZdA2xocA; _ga=GA1.1.1207446393.1690688431; _gid=GA1.2.755430197.1690688431; _ga_M0180HEFCY=GS1.1.1690688431.1.0.1690688433.0.0.0; YSC=HY5Sef0oexA
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+GET: https://www.youtube.com/s/desktop/83a619e0/jsbin/serviceworker-notifications.vflset/serviceworker-notifications.js
+HEADERS:
+Host: www.youtube.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Service-Worker: script
+Alt-Used: www.youtube.com
+Connection: keep-alive
+Cookie: SID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3_xEnLNex_J-gxbHgopyKpA.; __Secure-1PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-3PSIDTS=sidts-CjEBPu3jIa9GD9UEkF88MUTWbmllwibrCF3Wa66qi78KxhPqNAfST8gQVIkfqvnvzunSEAA; __Secure-1PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm30jxyYmzcWQvDzStcqtH9YQ.; __Secure-3PSID=ZQj1udFWtaTuvRi3qoUvZJ18pp87M0e5fv-t9Ye-Lflv6Pm3-dArU1I7uGuUZrc9IiVL7Q.; HSID=A1cqb19h4TQNHaDqB; SSID=AYlT0VacCHYoYMZUp; APISID=ivRjYjK-0e2l1wZY/A8O1u5QLwduvhZSLW; SAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-1PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; __Secure-3PAPISID=NZn3hn_DAwmsh9pL/AXyjznwSRNjXEQ7sd; PREF=f6=80&tz=America.Sao_Paulo; LOGIN_INFO=AFmmF2swRgIhAKBGR5Iw4D-iE2gJzuq9xM9ac4dkIT-_NqD6joIVidrhAiEAoJ3ScVBpUtHRM1VTThxUJEjcd3QrlusiVsOKi9AGZcA:QUQ3MjNmekdDRHkzUmJVS2JNUXoxaElnMzhqTUlHNC1SZm1MN2Q0c3FKVHZqNVozT3FQQkdIeDBPa3RpMjF1QTNvUnM0eEVDb292MVlPZGtwSVZ6emtJNGh3cFpNQVJsZnhZOVA2SS1QanRzeG1qWWVGTHZ2bDBJMXdiQkxxZFVHY01aQTUwUnRsZmVXRVZYN3NHMDV1RGUyTjg4a2VieG53; VISITOR_INFO1_LIVE=ptAfg5E8s6I; SIDCC=APoG2W_jD8okX3sdD0hjxtnmB1zT1rAfJ8Mn_KqSK7PfsRb-69iQ_s_RgWFo0LRYRDB3mXcw_ZI; __Secure-1PSIDCC=APoG2W_NFw_CRQbXXvsisuy-J1QvxJWzv8qFfRU_9ntOXOEbjHHQJyrXv28rVJsjtc8328iNBQ; __Secure-3PSIDCC=APoG2W-zF-lXCHE1IeXxVfSUupyYkOKlqM4FjGmyYoK06jrYl1vTDxsWmEj4olztYdSZdA2xocA; _ga=GA1.1.1207446393.1690688431; _gid=GA1.2.755430197.1690688431; _ga_M0180HEFCY=GS1.1.1690688431.1.0.1690688433.0.0.0; YSC=HY5Sef0oexA
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+POST: https://rr2---sn-cg5npaqpbpu5acg-28ie.googlevideo.com/videoplayback?expire=1690794637&ei=LSbHZKPQNJWF-LAPqIm7wA8&ip=2804%3A1128%3Abff7%3Ac900%3A52aa%3A329d%3Ab368%3Af320&id=o-ANQnF3GEYo2ljszSum0uhW5-J9EZf56UKYROJZ-YTiLM&itag=137&aitags=134%2C136%2C137%2C160%2C243&source=youtube&requiressl=yes&mh=08&mm=31%2C29&mn=sn-cg5npaqpbpu5acg-28ie%2Csn-gpv7ynes&ms=au%2Crdu&mv=m&mvi=2&pl=44&ctier=A&pfa=5&initcwndbps=1301250&hightc=yes&siu=1&spc=Ul2Sq5qdebpIl9a7h86aVwl4O1LJPQmj2R8geDzT4bzj2gW845Q0SqY&vprv=1&svpuc=1&mime=video%2Fmp4&ns=-JB3_yA9QH0LxE4unkKz1KgO&gir=yes&clen=18001310&dur=301.266&lmt=1675139536577553&mt=1690772972&fvip=3&keepalive=yes&fexp=24007246%2C51000013&beids=24350017&c=WEB&txp=6216224&n=_r6CeSpVBczpQQ&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cctier%2Cpfa%2Chightc%2Csiu%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRAIgBukXCpT13ZaLFP8ICfehcPffgFkKWM4I4tuIl_pUkekCIGycMdguDrxHCBj-9Pr13tiQyQkDnNJq6_GPIa_c9PqZ&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAOyz705L-D8Oj9GRU-RIsiTcVxNl31MDTAfRl8uPgoo_AiEAo_0Ry3siQ5j0zsofJlKs56l2MolbDnDVsI-dg-7BFX8%3D&alr=yes&cpn=c1PKiIsDgRH4nG-h&cver=2.20230728.00.00&range=3604494-5220035&rn=11&rbuf=80000&pot=MlsB1oKodpmFMwHu98zlKkm2JzuS_QLpgcVw4InXRpAV0iSEe8fBQgY8FTwzGG5eqc62Yyw045xnBAXfP7us-mAsecyHRAIAJgitgFXU3pnLTkVpWoeyQf6eNyFJ&ump=1&srfvp=1
+HEADERS:
+Host: rr2---sn-cg5npaqpbpu5acg-28ie.googlevideo.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Content-Length: 2
+Origin: https://www.youtube.com
+Alt-Used: rr2---sn-cg5npaqpbpu5acg-28ie.googlevideo.com
+Connection: keep-alive
+Referer: https://www.youtube.com/
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
+
+
+POST: https://rr2---sn-cg5npaqpbpu5acg-28ie.googlevideo.com/videoplayback?expire=1690794637&ei=LSbHZKPQNJWF-LAPqIm7wA8&ip=2804%3A1128%3Abff7%3Ac900%3A52aa%3A329d%3Ab368%3Af320&id=o-ANQnF3GEYo2ljszSum0uhW5-J9EZf56UKYROJZ-YTiLM&itag=251&source=youtube&requiressl=yes&mh=08&mm=31%2C29&mn=sn-cg5npaqpbpu5acg-28ie%2Csn-gpv7ynes&ms=au%2Crdu&mv=m&mvi=2&pl=44&ctier=A&pfa=5&initcwndbps=1301250&hightc=yes&siu=1&spc=Ul2Sq5qdebpIl9a7h86aVwl4O1LJPQmj2R8geDzT4bzj2gW845Q0SqY&vprv=1&svpuc=1&mime=audio%2Fwebm&ns=-JB3_yA9QH0LxE4unkKz1KgO&gir=yes&clen=3521761&dur=301.281&lmt=1615714437422902&mt=1690772972&fvip=3&keepalive=yes&fexp=24007246%2C51000013&beids=24350017&c=WEB&txp=6211222&n=_r6CeSpVBczpQQ&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cctier%2Cpfa%2Chightc%2Csiu%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRAIgZiFRkqoEBdNnRKor-VlkuKbO8c8BVe8Pk0bMSFhB2Y0CICf5Kfk30Xh3lCYSZZ-GzXKwZ9yqtVfibW6m2UCEsWc2&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAOyz705L-D8Oj9GRU-RIsiTcVxNl31MDTAfRl8uPgoo_AiEAo_0Ry3siQ5j0zsofJlKs56l2MolbDnDVsI-dg-7BFX8%3D&alr=yes&cpn=c1PKiIsDgRH4nG-h&cver=2.20230728.00.00&range=995096-1375572&rn=12&rbuf=80001&pot=MlsB1oKodpmFMwHu98zlKkm2JzuS_QLpgcVw4InXRpAV0iSEe8fBQgY8FTwzGG5eqc62Yyw045xnBAXfP7us-mAsecyHRAIAJgitgFXU3pnLTkVpWoeyQf6eNyFJ&ump=1&srfvp=1
+HEADERS:
+Host: rr2---sn-cg5npaqpbpu5acg-28ie.googlevideo.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Content-Length: 2
+Origin: https://www.youtube.com
+Alt-Used: rr2---sn-cg5npaqpbpu5acg-28ie.googlevideo.com
+Connection: keep-alive
+Referer: https://www.youtube.com/
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+
+
+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+
