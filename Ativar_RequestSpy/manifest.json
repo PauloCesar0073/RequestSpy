@@ -1,14 +1,30 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
   "name": "RequestSpy",
   "version": "1.0",
   "icons": {
-    "128": "icone.png"
+    "128": "ativo.png"
   },
-  "description": "Bisbilhotar as requisições feita pelo navegador.",
-  "permissions": ["webRequest", "<all_urls>", "webNavigation", "tabs", "management","webRequestBlocking"],
+  "description": "Bisbilhotar as requisições feitas pelo navegador.",
+  "author": "Usuário sem o que fazer !",
+
+  "permissions": [
+    "webRequest",
+    "webNavigation",
+    "tabs",
+    "management",
+    "scripting"
+  ],
+  "host_permissions": [
+    "http://*/*",
+    "https://*/*"
+  ],
   "background": {
-    "scripts": ["background.js"],
-    "persistent": true
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_icon": {
+      "128": "ativo.png"
+    }
   }
 }

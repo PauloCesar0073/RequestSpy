@@ -16,7 +16,7 @@ function connectToPythonSocket() {
 
   pythonSocket.onerror = function (error) {
     console.error("Erro na conexão com o servidor Python:", error);
-    // Em caso de erro, tente novamente
+    // Em caso de erro, tentar novamente após alguns segundos
     setTimeout(connectToPythonSocket, 1000);
   };
 
@@ -26,41 +26,50 @@ function connectToPythonSocket() {
   };
 }
 
-// Função para capturar e enviar requisições ao servidor
-function capturarRequisicoes(details) {
+// Função para enviar dados pelo WebSocket
+function sendData(data) {
+  connectToPythonSocket();
+
+  if (pythonSocket.readyState === WebSocket.OPEN) {
+    pythonSocket.send(JSON.stringify(data));
+  } else {
+    // Caso o WebSocket não esteja aberto, tentar novamente após alguns segundos
+    setTimeout(function () {
+      if (pythonSocket.readyState === WebSocket.OPEN) {
+        pythonSocket.send(JSON.stringify(data));
+      }
+    }, 5000); // Tentar novamente após 5 segundos
+  }
+}
+
+// Função para capturar e enviar requisições e respostas ao servidor
+function capturarDados(details, type) {
   const requestUrl = details.url;
   const requestType = details.method; // Obtém o tipo da requisição (GET, POST, etc.)
 
   // Verifica a url e se o tipo da requisição é diferente de "OPTIONS"
   if (requestType !== "OPTIONS" && requestUrl.indexOf("ws://127.0.0.1:8888") === -1) {
-    // Envia a requisição e o tipo para o servidor através do WebSocket
-    connectToPythonSocket();
-    if (pythonSocket.readyState === WebSocket.OPEN) {
-      const requestData = {
-        type: requestType,
-        url: requestUrl,
-        headers: details.requestHeaders, // Inclui o cabeçalho completo na mensagem
-      };
-      pythonSocket.send(JSON.stringify(requestData));
-    } else {
-      // Caso o WebSocket não esteja aberto, tenta novamente em alguns segundos
-      setTimeout(function () {
-        if (pythonSocket.readyState === WebSocket.OPEN) {
-          const requestData = {
-            type: requestType,
-            url: requestUrl,
-            headers: details.requestHeaders, // Inclui o cabeçalho completo na mensagem
-          };
-          pythonSocket.send(JSON.stringify(requestData));
-        }
-      }, 5000); // Tentar novamente após 5 segundos
-    }
+    // Envia os dados e o tipo para o servidor através do WebSocket
+    const data = {
+      type: type,
+      url: requestUrl,
+      requestType: requestType,
+      headers: type === "REQUEST" ? details.requestHeaders : details.responseHeaders,
+    };
+    sendData(data);
   }
 }
 
 // Adiciona um ouvinte para capturar todas as requisições e seus cabeçalhos
 chrome.webRequest.onBeforeSendHeaders.addListener(
-  capturarRequisicoes,
+  (details) => capturarDados(details, "REQUEST"),
   { urls: ["<all_urls>"] }, // Intercepta todas as URLs
   ["requestHeaders"] // Especifica que queremos os cabeçalhos das requisições disponíveis na função de callback
+);
+
+// Adiciona um ouvinte para capturar todas as respostas e seus cabeçalhos
+chrome.webRequest.onHeadersReceived.addListener(
+  (details) => capturarDados(details, "RESPONSE"),
+  { urls: ["<all_urls>"] }, // Intercepta todas as URLs
+  ["responseHeaders"] // Especifica que queremos os cabeçalhos das respostas disponíveis na função de callback
 );
