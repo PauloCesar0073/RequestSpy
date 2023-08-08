@@ -5,7 +5,7 @@ from colorama import Fore, Style
 import re
 def show_usage():
     print(Fore.LIGHTYELLOW_EX + "Modo de Usar:", Style.RESET_ALL, "\n\n", Fore.LIGHTGREEN_EX,
-          "python3 snifer.py", Style.RESET_ALL,"[opção]\n\n",
+          "python3 RequestSpy.py", Style.RESET_ALL,"[opção]\n\n",
           Fore.LIGHTYELLOW_EX + "Opções:\n\n", Style.RESET_ALL +
           "POST\t\t\t Captura as requisições do tipo POST\n",
           "GET\t\t\t Captura as requisições do tipo GET\n",
