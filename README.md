@@ -1,7 +1,7 @@
 
 # RequestSpy - Uma Extensão para Analisar Requisições Web
 
-## Instalação
+## Instalação da Extensão
 
 ### Google Chrome
 
@@ -15,6 +15,23 @@
 
 1. Acesse o link [RequestSpy no Firefox Add-ons](https://addons.mozilla.org/pt-BR/firefox/addon/requestspy/).
 2. Clique em "Adicionar ao Firefox" para instalar a extensão.
+
+
+
+
+
+
+
+# Instalação de Requisitos python
+
+ - linux: ```linux.sh```
+
+
+
+
+
+
+
 
 ## Modo de Uso
 
