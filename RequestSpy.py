@@ -3,19 +3,33 @@ import websockets
 import argparse
 from colorama import Fore, Style
 import re
+from colorama import Fore, Style
+
 def show_usage():
-    print(Fore.LIGHTYELLOW_EX + "Modo de Usar:", Style.RESET_ALL, "\n\n", Fore.LIGHTGREEN_EX,
-          "RequestSpy", Style.RESET_ALL,"[opção]\n\n",
-          Fore.LIGHTYELLOW_EX + "Opções:\n\n", Style.RESET_ALL +
-          "POST\t\t\t Captura as requisições do tipo POST\n",
-          "GET\t\t\t Captura as requisições do tipo GET\n",
-          "PUT\t\t\t Captura as requisições do tipo PUT\n",
-          "DELETE\t\t\t Captura as requisições do tipo DELETE\n",
-          "all\t\t\t Captura todas as requisições\n\n",
-          "--url ou -u\tFiltra a captura para determinado site especificado\n\n",
-          "Opção para redirecionar saída:\n\n",
-          "-o arquivo_saida\t Redireciona a saída para um arquivo"
-          )
+
+    print(50*"+.")
+    print("RequestSpy")
+    print(50*"+.")
+
+
+    usage_text = (
+        f"{Fore.LIGHTYELLOW_EX}Modo de Usar:{Style.RESET_ALL}\n\n"
+        f"{Fore.LIGHTCYAN_EX}{Style.BRIGHT}RequestSpy{Style.RESET_ALL} - Uma ferramenta para capturar requisições\n\n"
+        f"{Fore.LIGHTYELLOW_EX}Opções:{Style.RESET_ALL}\n\n"
+        f"{Fore.LIGHTBLUE_EX}{Style.BRIGHT}POST{Style.RESET_ALL}\t\t {Fore.LIGHTWHITE_EX}Captura as requisições do tipo POST{Style.RESET_ALL}\n"
+        f"{Fore.LIGHTBLUE_EX}{Style.BRIGHT}GET{Style.RESET_ALL}\t\t {Fore.LIGHTWHITE_EX}Captura as requisições do tipo GET{Style.RESET_ALL}\n"
+        f"{Fore.LIGHTBLUE_EX}{Style.BRIGHT}PUT{Style.RESET_ALL}\t\t {Fore.LIGHTWHITE_EX}Captura as requisições do tipo PUT{Style.RESET_ALL}\n"
+        f"{Fore.LIGHTBLUE_EX}{Style.BRIGHT}DELETE{Style.RESET_ALL}\t {Fore.LIGHTWHITE_EX}Captura as requisições do tipo DELETE{Style.RESET_ALL}\n"
+        f"{Fore.LIGHTBLUE_EX}{Style.BRIGHT}all{Style.RESET_ALL}\t\t {Fore.LIGHTWHITE_EX}Captura todas as requisições{Style.RESET_ALL}\n\n"
+        f"{Fore.LIGHTBLUE_EX}{Style.BRIGHT}--url{Style.RESET_ALL} ou {Fore.LIGHTBLUE_EX}{Style.BRIGHT}-u{Style.RESET_ALL}"
+        f"\t{Fore.LIGHTWHITE_EX}Filtra a captura para um site especificado{Style.RESET_ALL}\n\n"
+        f"{Fore.LIGHTYELLOW_EX}Opção para redirecionar saída:{Style.RESET_ALL}\n\n"
+        f"{Fore.LIGHTBLUE_EX}{Style.BRIGHT}-o{Style.RESET_ALL} arquivo_saida\t {Fore.LIGHTWHITE_EX}Redireciona a saída para um arquivo{Style.RESET_ALL}\n"
+        f"{Fore.LIGHTYELLOW_EX}Exemplo:{Style.RESET_ALL} {Fore.LIGHTWHITE_EX}RequestSpy all --url https://example.com -o pentester001.txt{Style.RESET_ALL}\n"
+    )
+    print(usage_text)
+
+# Certifique-se de que a biblioteca Colorama esteja importada para que os códigos de cores funcionem corretamente.
 
 def remove_color_sequences(text):
     # Remove as sequências de escape do Colorama do texto
