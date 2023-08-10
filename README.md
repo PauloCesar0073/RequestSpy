@@ -22,17 +22,6 @@
 
 
 
-# Instalação de Requisitos python
-
- - linux: ```linux.sh```
-
-
-
-
-
-
-
-
 ## Modo de Uso
 
 1. Abra um site no seu navegador que deseja analisar as requisições.
@@ -41,7 +30,7 @@
 ### Comandos
 
 ```bash
-python3 RequestSpy.py [opção]
+./RequestSpy [opção]
 ```
 
 - `opção`: Escolha o tipo de requisições a serem capturadas.
