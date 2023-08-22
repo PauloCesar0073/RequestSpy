@@ -27,7 +27,7 @@ def get_ip_from_domain(domain):
 
 def get_ip_from_encrypton(text):
     try:
-        return text.split("encryption:")[1].strip()  # Capturar o que vem após "Server:"
+        return text.split("encryption:")[1].strip()  # Capturar o que vem após "encryption:"
     except:
         return None
 
@@ -92,7 +92,7 @@ def scanar(arquivo, output_file=None):
 
 
 
-        # Verificamos se a linha contém informações sobre a encrypt
+        # Verificamos se a linha contém informações sobre a encryption
         if "encryption:" in line:
             ecp = get_ip_from_encrypton(line)
             if ecp:
