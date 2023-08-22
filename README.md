@@ -51,5 +51,16 @@ python3 RequestSpy.py POST --url https://exemplo.com -o saida.txt
 ```
 
 Isso capturará apenas as requisições POST do site "https://exemplo.com" e redirecionará a saída para um arquivo chamado "saida.txt".
-
 Lembre-se de ajustar as opções de acordo com suas necessidades e objetivos de análise.
+<br>
+<br>
+<br>
+                                                    
+## usando o scan.py:
+
+
+arquivo.txt [opção] 
+
+<br><br>
+opções:
+
