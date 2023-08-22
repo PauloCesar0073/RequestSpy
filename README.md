@@ -59,8 +59,4 @@ Lembre-se de ajustar as opções de acordo com suas necessidades e objetivos de 
 ## usando o scan.py:
 
 
-arquivo.txt [opção] 
-
-<br><br>
-opções:
-
+scan.py arquivo_salvo.txt
